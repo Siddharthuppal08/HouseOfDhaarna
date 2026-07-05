@@ -55,9 +55,9 @@ export default function Header() {
             : 'bg-warm-white'
         }`}
       >
-        <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-3.5 lg:px-8">
-          <a href="#" className="shrink-0">
-            <Logo />
+        <div className="mx-auto flex max-w-7xl items-center justify-between gap-2 px-4 py-3 sm:gap-4 sm:px-6 sm:py-3.5 lg:px-8">
+          <a href="#" className="min-w-0 shrink">
+            <Logo compact />
           </a>
 
           <nav className="hidden flex-1 items-center justify-center gap-8 lg:flex">
@@ -90,15 +90,6 @@ export default function Header() {
             >
               <Icon name="whatsapp" className="h-4 w-4" />
               Order on WhatsApp
-            </a>
-            <a
-              href={WHATSAPP_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Order on WhatsApp"
-              className="inline-flex rounded-full bg-[#25D366] p-2.5 text-white transition-colors hover:bg-[#1fb855] sm:hidden"
-            >
-              <Icon name="whatsapp" className="h-5 w-5" />
             </a>
             <button
               type="button"

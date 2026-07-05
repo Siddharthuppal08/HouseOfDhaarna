@@ -18,9 +18,9 @@ function ProductCard({ product }) {
 
   return (
     <article className="flex h-full flex-col">
-      <div className="relative overflow-hidden rounded-2xl border border-sage-100 bg-sage-50 shadow-sm">
+      <div className="relative overflow-hidden rounded-lg border border-sage-100 bg-sage-50 shadow-sm sm:rounded-xl lg:rounded-2xl">
         {product.badge && (
-          <span className="absolute left-3 top-3 z-10 rounded-full bg-warm-white px-3 py-1 text-[10px] font-semibold uppercase tracking-wider text-sage-700 shadow-sm">
+          <span className="absolute left-1 top-1 z-10 rounded-full bg-warm-white px-1.5 py-0.5 text-[8px] font-semibold uppercase tracking-wider text-sage-700 shadow-sm sm:left-2 sm:top-2 sm:px-2 sm:text-[9px] lg:left-3 lg:top-3 lg:px-3 lg:py-1 lg:text-[10px]">
             {product.badge}
           </span>
         )}
@@ -41,13 +41,13 @@ function ProductCard({ product }) {
         </button>
 
         {gallery.length > 1 && (
-          <div className="flex gap-2 border-t border-sage-100 bg-warm-white p-2.5">
-            {gallery.slice(0, 4).map((thumb, index) => (
+          <div className="flex gap-1 overflow-x-auto border-t border-sage-100 bg-warm-white p-1 sm:gap-1.5 sm:p-1.5 lg:gap-2 lg:p-2.5">
+            {gallery.map((thumb, index) => (
               <button
                 key={`${thumb}-${index}`}
                 type="button"
                 onClick={() => setActiveImage(index)}
-                className={`h-12 w-12 overflow-hidden rounded-lg ring-2 transition-all ${
+                className={`h-7 w-7 shrink-0 overflow-hidden rounded ring-2 transition-all sm:h-9 sm:w-9 sm:rounded-md lg:h-12 lg:w-12 lg:rounded-lg ${
                   index === activeImage ? 'ring-sage-500' : 'ring-transparent opacity-75 hover:opacity-100'
                 }`}
                 aria-label={`Show image ${index + 1}`}
@@ -55,38 +55,28 @@ function ProductCard({ product }) {
                 <img src={thumb} alt="" className="h-full w-full object-cover" />
               </button>
             ))}
-            {gallery.length > 4 && (
-              <button
-                type="button"
-                onClick={() => setLightboxOpen(true)}
-                className="flex h-12 min-w-12 items-center justify-center rounded-lg bg-sage-50 px-2 text-xs font-semibold text-sage-700"
-              >
-                +{gallery.length - 4}
-              </button>
-            )}
           </div>
         )}
       </div>
 
-      <div className="mt-4 flex flex-1 flex-col">
-        <p className="text-[10px] font-semibold uppercase tracking-[0.22em] text-stone">
-          {product.category}
-        </p>
-        <h3 className="mt-2 font-display text-lg font-medium leading-snug text-charcoal lg:text-xl">
+      <div className="mt-1.5 flex flex-1 flex-col sm:mt-2.5 lg:mt-4">
+        <h3 className="line-clamp-2 font-display text-[11px] font-medium leading-snug text-charcoal sm:text-sm lg:text-lg xl:text-xl">
           {product.name}
         </h3>
         {product.subtitle && (
-          <p className="mt-1.5 line-clamp-2 text-sm leading-relaxed text-stone">{product.subtitle}</p>
+          <p className="mt-0.5 hidden line-clamp-1 text-xs leading-relaxed text-stone sm:line-clamp-2 sm:text-sm lg:block">
+            {product.subtitle}
+          </p>
         )}
-        <div className="mt-auto pt-4">
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="text-lg font-semibold text-charcoal">
+        <div className="mt-auto pt-1.5 sm:pt-2.5 lg:pt-4">
+          <div className="flex flex-wrap items-center gap-1 sm:gap-1.5 lg:gap-2">
+            <span className="text-[11px] font-semibold text-charcoal sm:text-sm lg:text-lg">
               {formatPrice(product.price)}
             </span>
-            <span className="text-sm text-stone line-through">
+            <span className="hidden text-[10px] text-stone line-through sm:inline sm:text-xs lg:text-sm">
               {formatPrice(product.originalPrice)}
             </span>
-            <span className="rounded-full bg-terracotta/10 px-2.5 py-0.5 text-[11px] font-semibold text-terracotta">
+            <span className="rounded-full bg-terracotta/10 px-1.5 py-0.5 text-[8px] font-semibold text-terracotta sm:text-[10px] lg:text-[11px]">
               {product.discount}% off
             </span>
           </div>
@@ -94,12 +84,12 @@ function ProductCard({ product }) {
             href={whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-4 inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#25D366] py-3 text-sm font-semibold text-white transition-colors hover:bg-[#1fb855]"
+            className="mt-1.5 inline-flex w-full items-center justify-center gap-1 rounded-full bg-[#25D366] py-1.5 text-[9px] font-semibold text-white transition-colors hover:bg-[#1fb855] sm:mt-2.5 sm:gap-1.5 sm:py-2.5 sm:text-xs lg:mt-4 lg:gap-2 lg:py-3 lg:text-sm"
           >
-            <svg className="h-4 w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <svg className="h-3 w-3 sm:h-3.5 sm:w-3.5 lg:h-4 lg:w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
               <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.435 9.884-9.884 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" />
             </svg>
-            Order on WhatsApp
+            <span className="hidden sm:inline">Order on </span>WhatsApp
           </a>
         </div>
       </div>
@@ -118,14 +108,14 @@ function ProductCard({ product }) {
 
 export default function ProductGrid({ id, title, subtitle, products, viewAllHref }) {
   return (
-    <section id={id} className="py-20 lg:py-28">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="flex flex-col items-start justify-between gap-6 border-b border-sage-100 pb-8 sm:flex-row sm:items-end">
+    <section id={id} className="py-12 sm:py-16 lg:py-28">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="flex flex-col items-start justify-between gap-4 border-b border-sage-100 pb-6 sm:flex-row sm:items-end sm:gap-6 sm:pb-8">
           <div className="max-w-2xl">
-            <p className="text-xs font-semibold uppercase tracking-[0.3em] text-sage-500">
+            <p className="text-[10px] font-semibold uppercase tracking-[0.28em] text-sage-500 sm:text-xs sm:tracking-[0.3em]">
               {subtitle}
             </p>
-            <h2 className="mt-3 font-display text-4xl font-medium text-charcoal lg:text-5xl">
+            <h2 className="mt-2 font-display text-3xl font-medium text-charcoal sm:mt-3 sm:text-4xl lg:text-5xl">
               {title}
             </h2>
           </div>
@@ -142,7 +132,7 @@ export default function ProductGrid({ id, title, subtitle, products, viewAllHref
           )}
         </div>
 
-        <div className="mt-12 grid grid-cols-1 gap-x-6 gap-y-12 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div className="mt-8 grid grid-cols-4 gap-x-2 gap-y-6 sm:mt-12 sm:gap-x-4 sm:gap-y-8 lg:gap-x-6 lg:gap-y-12">
           {products.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}

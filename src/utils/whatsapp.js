@@ -16,14 +16,10 @@ export function buildProductOrderMessage(product) {
     'Hi House of Dhaarna!',
     '',
     `I'd like to order: *${product.name}*`,
-    product.subtitle ? `Details: ${product.subtitle}` : null,
     `Price: ${price}`,
-    product.category ? `Category: ${product.category}` : null,
     '',
     'Please confirm availability and delivery.',
-  ]
-    .filter(Boolean)
-    .join('\n')
+  ].join('\n')
 }
 
 export function getProductWhatsAppUrl(product) {
