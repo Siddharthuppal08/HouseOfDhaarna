@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { navLinks } from '../data/products'
 import { WHATSAPP_URL, INSTAGRAM_URL } from '../config/site'
+import Logo from './Logo'
 
 function Icon({ name, className = 'w-5 h-5' }) {
   const icons = {
@@ -54,17 +55,12 @@ export default function Header() {
             : 'bg-warm-white'
         }`}
       >
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
-          <a href="#" className="group flex flex-col">
-            <span className="font-display text-2xl font-semibold tracking-wide text-sage-700 lg:text-3xl">
-              House of Dhaarna
-            </span>
-            <span className="text-[10px] font-medium uppercase tracking-[0.35em] text-stone">
-              Premium Home Decor
-            </span>
+        <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-3.5 lg:px-8">
+          <a href="#" className="shrink-0">
+            <Logo />
           </a>
 
-          <nav className="hidden items-center gap-8 lg:flex">
+          <nav className="hidden flex-1 items-center justify-center gap-8 lg:flex">
             {navLinks.map((link) => (
               <a
                 key={link.label}

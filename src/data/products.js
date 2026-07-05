@@ -1,12 +1,15 @@
 import catalog from './catalog.json'
-import { getProductImageUrl } from '../config/assets'
+import { getProductGallery, getProductImageUrl } from '../config/assets'
 
 const productMap = new Map(catalog.products.map((product) => [product.id, product]))
 
 function withImageUrl(product) {
+  const gallery = getProductGallery(product)
+
   return {
     ...product,
     image: getProductImageUrl(product),
+    gallery,
   }
 }
 

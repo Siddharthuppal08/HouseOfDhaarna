@@ -8,4 +8,4 @@ export const INSTAGRAM_URL = 'https://www.instagram.com/houseofdhaarna'
 
 export const INSTAGRAM_HANDLE = '@houseofdhaarna'
 
-export const EMAIL = 'contact@houseofdhaarna.com'
+export const LOGO_URL = '/logo.jpg'

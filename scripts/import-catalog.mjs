@@ -45,9 +45,10 @@ function calcDiscount(price, mrp) {
   return Math.round(((original - selling) / original) * 100)
 }
 
-function imageFilename(sku, imageUrl) {
+function imageFilename(sku, imageUrl, index = 1) {
   const ext = extname(new URL(imageUrl).pathname) || '.jpg'
-  return `${slugify(sku)}${ext}`
+  const base = slugify(sku)
+  return index === 1 ? `${base}${ext}` : `${base}-${index}${ext}`
 }
 
 async function downloadImage(url, destination) {
@@ -88,38 +89,43 @@ async function run() {
 
   for (const [index, row] of visibleRows.entries()) {
     const sku = row['Sku Id'] || row['Product Code'] || `product-${index + 1}`
-    const imageUrl = row['Image 1']?.trim()
     const price = Number(row['Selling Price']) || 0
     const originalPrice = Number(row.MRP) || price
     const discount = calcDiscount(price, originalPrice)
 
-    let imagePath = ''
-    let imageFile = ''
-    let githubImageUrl = ''
+    const sourceImages = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+      .map((n) => row[`Image ${n}`]?.trim())
+      .filter((url) => url && url.startsWith('http'))
 
-    if (imageUrl && imageUrl.startsWith('http')) {
-      imageFile = imageFilename(sku, imageUrl)
+    const gallery = []
+
+    process.stdout.write(`[${index + 1}/${visibleRows.length}] ${sku}`)
+
+    for (const [imageIndex, imageUrl] of sourceImages.entries()) {
+      const fileIndex = imageIndex + 1
+      const imageFile = imageFilename(sku, imageUrl, fileIndex)
       const catalogPath = join(CATALOG_IMAGES, imageFile)
       const publicPath = join(PUBLIC_IMAGES, imageFile)
 
-      process.stdout.write(`[${index + 1}/${visibleRows.length}] ${sku} `)
       const ok = await downloadImage(imageUrl, catalogPath)
       if (ok) {
         copyFileSync(catalogPath, publicPath)
         downloaded += 1
-        process.stdout.write('✓\n')
+        gallery.push({
+          file: imageFile,
+          path: `/products/images/${imageFile}`,
+          githubImageUrl: `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/public/products/images/${imageFile}`,
+          sourceImageUrl: imageUrl,
+        })
+        process.stdout.write(fileIndex === 1 ? ' ✓' : `+${fileIndex}`)
       } else {
         failed += 1
-        process.stdout.write('\n')
       }
-
-      imagePath = `/products/images/${imageFile}`
-      githubImageUrl = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/public/products/images/${imageFile}`
     }
 
-    const images = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-      .map((n) => row[`Image ${n}`]?.trim())
-      .filter(Boolean)
+    process.stdout.write('\n')
+
+    const primary = gallery[0] || null
 
     products.push({
       id: sku,
@@ -141,11 +147,12 @@ async function run() {
       idealFor: row['attr_Ideal For']?.replace(/\s+/g, ' ').trim() || '',
       feature: row['attr_Feature']?.replace(/\s+/g, ' ').trim() || '',
       quantity: Number(row.Quantity) || 0,
-      image: imagePath,
-      imageFile,
-      githubImageUrl,
-      images,
-      sourceImageUrl: imageUrl || '',
+      image: primary?.path || '',
+      imageFile: primary?.file || '',
+      githubImageUrl: primary?.githubImageUrl || '',
+      gallery,
+      images: sourceImages,
+      sourceImageUrl: sourceImages[0] || '',
     })
   }
 
@@ -190,9 +197,6 @@ async function run() {
   console.log(`  Products: ${products.length}`)
   console.log(`  Images downloaded: ${downloaded}`)
   console.log(`  Images failed: ${failed}`)
-  console.log(`  Catalog JSON: src/data/catalog.json`)
-  console.log(`  Local images: catalog/images/`)
-  console.log(`  Website images: public/products/images/`)
 }
 
 run().catch((error) => {
