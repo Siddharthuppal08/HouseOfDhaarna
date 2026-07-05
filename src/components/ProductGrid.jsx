@@ -56,13 +56,13 @@ function ProductCard({ product }) {
         </button>
 
         {gallery.length > 1 && (
-          <div className="flex gap-2 overflow-x-auto border-t border-sage-100 bg-warm-white p-2.5 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-            {gallery.slice(0, 4).map((thumb, index) => (
+          <div className="flex gap-1 overflow-x-auto border-t border-sage-100 bg-warm-white p-1 sm:gap-2 sm:p-2.5 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+            {gallery.map((thumb, index) => (
               <button
                 key={`${thumb}-${index}`}
                 type="button"
                 onClick={() => setActiveImage(index)}
-                className={`h-12 w-12 shrink-0 overflow-hidden rounded-lg ring-2 transition-all ${
+                className={`h-7 w-7 shrink-0 overflow-hidden rounded ring-2 transition-all sm:h-12 sm:w-12 sm:rounded-lg ${
                   index === activeImage ? 'ring-sage-500' : 'ring-transparent opacity-75 hover:opacity-100'
                 }`}
                 aria-label={`Show image ${index + 1}`}
@@ -71,21 +71,12 @@ function ProductCard({ product }) {
                 <img src={thumb} alt="" className="h-full w-full object-cover" loading="lazy" />
               </button>
             ))}
-            {gallery.length > 4 && (
-              <button
-                type="button"
-                onClick={() => setLightboxOpen(true)}
-                className="flex h-12 min-w-12 shrink-0 items-center justify-center rounded-lg bg-sage-50 px-2 text-xs font-semibold text-sage-700"
-              >
-                +{gallery.length - 4}
-              </button>
-            )}
           </div>
         )}
       </div>
 
       <div className="mt-1.5 flex flex-1 flex-col sm:mt-2.5 lg:mt-4">
-        <h3 className="line-clamp-2 font-display text-[11px] font-medium leading-snug text-charcoal sm:text-sm lg:text-lg xl:text-xl">
+        <h3 className="line-clamp-2 font-display text-[10px] font-medium leading-snug text-charcoal sm:text-sm lg:text-lg xl:text-xl">
           {product.name}
         </h3>
         {product.subtitle && (
@@ -95,15 +86,15 @@ function ProductCard({ product }) {
         )}
         <div className="mt-auto pt-1.5 sm:pt-2.5 lg:pt-4">
           <div className="flex flex-wrap items-center gap-1 sm:gap-1.5 lg:gap-2">
-            <span className="text-[11px] font-semibold text-charcoal sm:text-sm lg:text-lg">
+            <span className="text-[10px] font-semibold text-charcoal sm:text-sm lg:text-lg">
               {formatPrice(product.price)}
             </span>
             {product.discount > 0 && (
               <>
-                <span className="text-sm text-stone line-through">
+                <span className="hidden text-[10px] text-stone line-through sm:inline sm:text-sm">
                   {formatPrice(product.originalPrice)}
                 </span>
-                <span className="rounded-full bg-terracotta/10 px-2.5 py-0.5 text-[11px] font-semibold text-terracotta">
+                <span className="rounded-full bg-terracotta/10 px-1.5 py-0.5 text-[8px] font-semibold text-terracotta sm:px-2.5 sm:py-0.5 sm:text-[11px]">
                   {product.discount}% off
                 </span>
               </>
@@ -112,10 +103,10 @@ function ProductCard({ product }) {
           <a
             href={whatsappUrl}
             onClick={handleOrder}
-            className="mt-4 inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#25D366] py-3 text-sm font-semibold text-white transition-colors hover:bg-[#1fb855] active:scale-[0.98]"
+            className="mt-1.5 inline-flex w-full items-center justify-center gap-1 rounded-full bg-[#25D366] py-1.5 text-[9px] font-semibold text-white transition-colors hover:bg-[#1fb855] active:scale-[0.98] sm:mt-4 sm:gap-2 sm:py-3 sm:text-sm"
           >
-            <WhatsAppIcon />
-            Order on WhatsApp
+            <WhatsAppIcon className="h-3 w-3 sm:h-4 sm:w-4" />
+            <span className="hidden sm:inline">Order on </span>WhatsApp
           </a>
         </div>
       </div>
@@ -135,7 +126,7 @@ function ProductCard({ product }) {
 export default function ProductGrid({ id, title, subtitle, products, viewAllHref }) {
   return (
     <section id={id} className="py-16 sm:py-20 lg:py-28">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl px-3 sm:px-4 lg:px-8">
         <div className="flex flex-col items-start justify-between gap-6 border-b border-sage-100 pb-8 sm:flex-row sm:items-end">
           <div className="max-w-2xl">
             <p className="text-[10px] font-semibold uppercase tracking-[0.28em] text-sage-500 sm:text-xs sm:tracking-[0.3em]">
@@ -158,7 +149,7 @@ export default function ProductGrid({ id, title, subtitle, products, viewAllHref
           )}
         </div>
 
-        <div className="mt-10 grid grid-cols-1 gap-x-6 gap-y-12 sm:mt-12 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div className="mt-8 grid grid-cols-4 gap-x-2 gap-y-6 sm:mt-10 sm:gap-x-4 sm:gap-y-8 lg:gap-x-6 lg:gap-y-12">
           {products.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
