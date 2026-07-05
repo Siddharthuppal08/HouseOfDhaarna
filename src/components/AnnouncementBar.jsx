@@ -1,5 +1,5 @@
 export default function AnnouncementBar() {
-  const message = 'Save min. 50% on all orders · Free shipping across India'
+  const message = 'Save min. 50% on all orders · Premium artificial decor'
 
   return (
     <div className="bg-sage-700 text-cream overflow-hidden">
