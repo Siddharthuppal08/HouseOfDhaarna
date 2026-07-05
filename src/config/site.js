@@ -1,3 +1,5 @@
+export const SITE_URL = 'https://houseofdhaarna.com'
+
 export const WHATSAPP_NUMBER = '919999789965'
 
 export const WHATSAPP_DISPLAY = '+91 99997 89965'
