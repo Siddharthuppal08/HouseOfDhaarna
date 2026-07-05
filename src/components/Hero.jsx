@@ -38,7 +38,7 @@ export default function Hero() {
         <div className="absolute inset-0 bg-gradient-to-t from-charcoal/50 via-transparent to-charcoal/15" />
       </div>
 
-      <div className="relative mx-auto grid min-h-[88vh] max-w-7xl items-center gap-12 px-6 py-20 lg:grid-cols-2 lg:gap-16 lg:px-8 lg:py-28">
+      <div className="relative mx-auto grid min-h-[88vh] max-w-7xl items-center gap-12 px-4 py-16 sm:px-6 sm:py-20 lg:grid-cols-2 lg:gap-16 lg:px-8 lg:py-28">
         <div className="max-w-xl">
           <div className="animate-fade-up mb-6 flex items-center gap-3">
             <img
@@ -50,7 +50,7 @@ export default function Hero() {
               Inspired by Nature
             </p>
           </div>
-          <h1 className="animate-fade-up-delay-1 font-display text-5xl font-medium leading-[1.08] text-white sm:text-6xl lg:text-[3.5rem]">
+          <h1 className="animate-fade-up-delay-1 font-display text-4xl font-medium leading-[1.08] text-white sm:text-5xl lg:text-[3.5rem]">
             Lifelike decor,
             <br />
             <span className="italic text-sage-200">effortlessly elegant</span>
@@ -106,6 +106,7 @@ export default function Hero() {
                     src={product.image}
                     alt={product.name}
                     className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+                    loading="lazy"
                   />
                 </div>
                 <div className="px-5 py-4">

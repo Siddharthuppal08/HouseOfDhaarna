@@ -29,9 +29,8 @@ function Icon({ name, className = 'w-5 h-5' }) {
   return icons[name] || null
 }
 
-export default function Header() {
+export default function Header({ menuOpen, setMenuOpen }) {
   const [scrolled, setScrolled] = useState(false)
-  const [menuOpen, setMenuOpen] = useState(false)
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20)
@@ -55,7 +54,7 @@ export default function Header() {
             : 'bg-warm-white'
         }`}
       >
-        <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-3.5 lg:px-8">
+        <div className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-3.5 sm:gap-4 sm:px-6 lg:px-8">
           <a href="#" className="shrink-0">
             <Logo />
           </a>
@@ -117,7 +116,7 @@ export default function Header() {
       )}
 
       <div
-        className={`fixed right-0 top-0 z-50 h-full w-72 transform bg-warm-white shadow-2xl transition-transform duration-300 lg:hidden ${
+        className={`fixed right-0 top-0 z-[60] h-full w-[min(18rem,85vw)] transform bg-warm-white shadow-2xl transition-transform duration-300 lg:hidden ${
           menuOpen ? 'translate-x-0' : 'translate-x-full'
         }`}
       >

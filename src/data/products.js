@@ -10,6 +10,7 @@ function withImageUrl(product) {
     ...product,
     image: getProductImageUrl(product),
     gallery,
+    galleryEntries: product.gallery,
   }
 }
 

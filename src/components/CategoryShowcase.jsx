@@ -3,7 +3,7 @@ import { categories } from '../data/products'
 export default function CategoryShowcase() {
   return (
     <section id="collections" className="bg-cream py-20 lg:py-28">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <p className="text-xs font-semibold uppercase tracking-[0.3em] text-sage-500">
             Shop by Category
@@ -36,7 +36,7 @@ export default function CategoryShowcase() {
                   {category.name}
                 </h3>
                 <p className="mt-2 text-sm text-white/80">{category.description}</p>
-                <span className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-white opacity-0 transition-all group-hover:opacity-100">
+                <span className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-white opacity-100 transition-all sm:opacity-0 sm:group-hover:opacity-100">
                   Explore
                   <svg className="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                     <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
