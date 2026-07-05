@@ -19,19 +19,34 @@ After updating `catalog/products.csv`, refresh everything:
 npm run import-catalog
 ```
 
-## GitHub setup (images always live)
+## Deploy to houseofdhaarna.com (GitHub Pages)
 
-1. Repo is configured: [Siddharthuppal08/HouseOfDhaarna](https://github.com/Siddharthuppal08/HouseOfDhaarna)
-2. Push from your machine (already committed locally):
+Everything is configured for **GitHub Pages only** — no Vercel needed.
+
+**Repo:** [Siddharthuppal08/HouseOfDhaarna](https://github.com/Siddharthuppal08/HouseOfDhaarna)
+
+### 1. Push code (run in Terminal)
 
 ```bash
 cd ~/Projects/house-of-dhaarna
 git push -u origin main
 ```
 
-3. Enable **GitHub Pages**: repo Settings → Pages → Build and deployment → Source: **GitHub Actions**
-4. After deploy, your site will be live at:
-   **https://siddharthuppal08.github.io/HouseOfDhaarna/**
+Or: `bash scripts/push-github.sh`
+
+### 2. Enable GitHub Pages (one-time)
+
+Open [Pages settings](https://github.com/Siddharthuppal08/HouseOfDhaarna/settings/pages):
+
+- **Source:** GitHub Actions
+- **Custom domain:** `houseofdhaarna.com`
+- **Enforce HTTPS:** on (after DNS verifies)
+
+### 3. Update DNS (one-time)
+
+Point `houseofdhaarna.com` to GitHub Pages — see `DEPLOY.md` for A records.
+
+After DNS propagates, the site goes live at **https://houseofdhaarna.com**
 
 ## Run locally
 
