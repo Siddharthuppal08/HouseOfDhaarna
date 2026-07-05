@@ -21,30 +21,17 @@ npm run import-catalog
 
 ## GitHub setup (images always live)
 
-1. Create a repo on GitHub (e.g. `house-of-dhaarna`)
-2. Set your repo in `.env`:
+1. Repo is configured: [Siddharthuppal08/HouseOfDhaarna](https://github.com/Siddharthuppal08/HouseOfDhaarna)
+2. Push from your machine (already committed locally):
 
 ```bash
-cp .env.example .env
-# Edit VITE_GITHUB_REPO=your-username/your-repo-name
-```
-
-3. Push the project (includes all 75+ product images):
-
-```bash
-git init
-git add .
-git commit -m "Add House of Dhaarna website with full product catalog"
-git branch -M main
-git remote add origin https://github.com/Siddharthuppal08/HouseOfDhaarna.git
+cd ~/Projects/house-of-dhaarna
 git push -u origin main
 ```
 
-4. Deploy (pick one):
-   - **Vercel / Netlify** — connect the GitHub repo; images load from `/products/images/`
-   - **GitHub Pages** — enable in repo Settings → Pages
-   - **CDN fallback** — set `VITE_USE_GITHUB_CDN=true` in `.env` to load images directly from:
-     `https://raw.githubusercontent.com/YOUR_USERNAME/house-of-dhaarna/main/public/products/images/`
+3. Enable **GitHub Pages**: repo Settings → Pages → Build and deployment → Source: **GitHub Actions**
+4. After deploy, your site will be live at:
+   **https://siddharthuppal08.github.io/HouseOfDhaarna/**
 
 ## Run locally
 
