@@ -1,4 +1,4 @@
-// Image URLs served from this repo on GitHub.
+// Image URLs served from the GitHub repository.
 
 import { SITE_URL } from './site'
 
@@ -7,25 +7,30 @@ export const GITHUB_BRANCH = import.meta.env.VITE_GITHUB_BRANCH || 'main'
 export const GITHUB_IMAGE_BASE_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/public/products/images/`
 export const LOGO_URL = '/logo.jpg'
 
-const useGithubCdn = import.meta.env.VITE_USE_GITHUB_CDN === 'true'
+export const GITHUB_IMAGE_BASE_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/public/products/images/`
+
+export function buildGithubImageUrl(file) {
+  if (!file) return ''
+  return `${GITHUB_IMAGE_BASE_URL}${file}`
+}
 
 function resolveImage(entry) {
   if (!entry) return ''
 
   if (typeof entry === 'string') {
-    return entry.startsWith('/') ? entry : `/products/images/${entry}`
+    if (entry.startsWith('http')) return entry
+    const file = entry.replace(/^\/products\/images\//, '')
+    return buildGithubImageUrl(file)
   }
 
-  if (useGithubCdn && entry.githubImageUrl) {
-    return entry.githubImageUrl
-  }
-
-  return entry.path || (entry.file ? `/products/images/${entry.file}` : '')
+  return entry.url || entry.githubImageUrl || buildGithubImageUrl(entry.file)
 }
 
 export function getProductImageUrl(product) {
-  if (product?.image) return product.image
-  return resolveImage(product?.gallery?.[0]) || product?.sourceImageUrl || ''
+  if (product?.image?.startsWith('http')) return product.image
+  if (product?.githubImageUrl) return product.githubImageUrl
+  if (product?.imageFile) return buildGithubImageUrl(product.imageFile)
+  return resolveImage(product?.gallery?.[0]) || ''
 }
 
 export function getProductGallery(product) {

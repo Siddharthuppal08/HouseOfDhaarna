@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T14:23:28.673Z",
+  "generatedAt": "2026-07-05T18:37:01.430Z",
   "sourceFile": "catalog/products.csv",
   "githubRepo": "Siddharthuppal08/HouseOfDhaarna",
   "githubBranch": "main",
@@ -24,42 +24,26 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Vase for Small Flower Bouquets or flower sticks",
       "quantity": 30,
-      "image": "/products/images/hod-124.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124.jpg",
       "imageFile": "hod-124.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124.jpg",
       "gallery": [
         {
           "file": "hod-124.jpg",
-          "path": "/products/images/hod-124.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_124_1750851214594_dls9atxt9y4gnnf.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124.jpg"
         },
         {
           "file": "hod-124-2.jpg",
-          "path": "/products/images/hod-124-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_124_1750851215599_dlhz6asrbt3h7e3.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124-2.jpg"
         },
         {
           "file": "hod-124-3.jpg",
-          "path": "/products/images/hod-124-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/A7XrEPPa_ZYXMZQ7MYN_2025-07-17_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124-3.jpg"
         },
         {
           "file": "hod-124-4.jpg",
-          "path": "/products/images/hod-124-4.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124-4.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/A7XrEPPa_IFPEDYKM8E_2025-07-17_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-124-4.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_124_1750851214594_dls9atxt9y4gnnf.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_124_1750851215599_dlhz6asrbt3h7e3.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/A7XrEPPa_ZYXMZQ7MYN_2025-07-17_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/A7XrEPPa_IFPEDYKM8E_2025-07-17_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_124_1750851214594_dls9atxt9y4gnnf.jpg"
+      ]
     },
     {
       "id": "HOD-101",
@@ -78,28 +62,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Clean with a cloth.",
       "quantity": 30,
-      "image": "/products/images/hod-101.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-101.png",
       "imageFile": "hod-101.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-101.png",
       "gallery": [
         {
           "file": "hod-101.png",
-          "path": "/products/images/hod-101.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-101.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C8KDDKgP_ITLEU7QA3I_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-101.png"
         },
         {
           "file": "hod-101-2.png",
-          "path": "/products/images/hod-101-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-101-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C8KDDKgP_SELWA5QZ41_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-101-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C8KDDKgP_ITLEU7QA3I_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C8KDDKgP_SELWA5QZ41_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C8KDDKgP_ITLEU7QA3I_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-102",
@@ -118,28 +92,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Clean with a cloth.",
       "quantity": 30,
-      "image": "/products/images/hod-102.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-102.png",
       "imageFile": "hod-102.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-102.png",
       "gallery": [
         {
           "file": "hod-102.png",
-          "path": "/products/images/hod-102.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-102.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Mon6pzwk_I27M4QK656_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-102.png"
         },
         {
           "file": "hod-102-2.png",
-          "path": "/products/images/hod-102-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-102-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Mon6pzwk_W9ALX4SQPA_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-102-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Mon6pzwk_I27M4QK656_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Mon6pzwk_W9ALX4SQPA_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Mon6pzwk_I27M4QK656_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-100",
@@ -158,28 +122,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Clean with a cloth.",
       "quantity": 30,
-      "image": "/products/images/hod-100.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-100.png",
       "imageFile": "hod-100.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-100.png",
       "gallery": [
         {
           "file": "hod-100.png",
-          "path": "/products/images/hod-100.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-100.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bEkhNV3B_EXEP2M9LEA_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-100.png"
         },
         {
           "file": "hod-100-2.png",
-          "path": "/products/images/hod-100-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-100-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bEkhNV3B_A5FQEAGNR9_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-100-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bEkhNV3B_EXEP2M9LEA_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bEkhNV3B_A5FQEAGNR9_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bEkhNV3B_EXEP2M9LEA_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-118",
@@ -198,35 +152,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-118.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-118.jpg",
       "imageFile": "hod-118.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-118.jpg",
       "gallery": [
         {
           "file": "hod-118.jpg",
-          "path": "/products/images/hod-118.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-118.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_118_1750851207358_2t7ered545gc3td.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-118.jpg"
         },
         {
           "file": "hod-118-2.jpg",
-          "path": "/products/images/hod-118-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-118-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_118_1750851207367_8lx11v6pppsjoj3.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-118-2.jpg"
         },
         {
           "file": "hod-118-3.jpg",
-          "path": "/products/images/hod-118-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-118-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Lea8JkaU_WCBGSY9FXT_2025-07-03_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-118-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_118_1750851207358_2t7ered545gc3td.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_118_1750851207367_8lx11v6pppsjoj3.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Lea8JkaU_WCBGSY9FXT_2025-07-03_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_118_1750851207358_2t7ered545gc3td.jpg"
+      ]
     },
     {
       "id": "HOD-92",
@@ -245,28 +186,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-92.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-92.png",
       "imageFile": "hod-92.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-92.png",
       "gallery": [
         {
           "file": "hod-92.png",
-          "path": "/products/images/hod-92.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-92.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bLVIDClX_VQCBJVVVJ9_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-92.png"
         },
         {
           "file": "hod-92-2.png",
-          "path": "/products/images/hod-92-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-92-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bLVIDClX_64W90C467H_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-92-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bLVIDClX_VQCBJVVVJ9_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bLVIDClX_64W90C467H_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/bLVIDClX_VQCBJVVVJ9_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-94",
@@ -285,28 +216,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-94.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-94.png",
       "imageFile": "hod-94.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-94.png",
       "gallery": [
         {
           "file": "hod-94.png",
-          "path": "/products/images/hod-94.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-94.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/YgDouNom_NWI1TAR1MH_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-94.png"
         },
         {
           "file": "hod-94-2.png",
-          "path": "/products/images/hod-94-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-94-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/YgDouNom_RQVE9SQQ5W_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-94-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/YgDouNom_NWI1TAR1MH_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/YgDouNom_RQVE9SQQ5W_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/YgDouNom_NWI1TAR1MH_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-96",
@@ -325,28 +246,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 29,
-      "image": "/products/images/hod-96.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-96.png",
       "imageFile": "hod-96.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-96.png",
       "gallery": [
         {
           "file": "hod-96.png",
-          "path": "/products/images/hod-96.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-96.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/0Kclv1Cn_XY6H5WTFW7_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-96.png"
         },
         {
           "file": "hod-96-2.png",
-          "path": "/products/images/hod-96-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-96-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/0Kclv1Cn_6XSTQG7EFC_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-96-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/0Kclv1Cn_XY6H5WTFW7_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/0Kclv1Cn_6XSTQG7EFC_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/0Kclv1Cn_XY6H5WTFW7_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-106",
@@ -365,28 +276,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Clean with a cloth.",
       "quantity": 28,
-      "image": "/products/images/hod-106.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-106.png",
       "imageFile": "hod-106.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-106.png",
       "gallery": [
         {
           "file": "hod-106.png",
-          "path": "/products/images/hod-106.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-106.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/GQ6iDPOR_R7QI1UOHT6_2025-06-19_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-106.png"
         },
         {
           "file": "hod-106-2.png",
-          "path": "/products/images/hod-106-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-106-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/GQ6iDPOR_L97GY6VRD3_2025-06-19_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-106-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/GQ6iDPOR_R7QI1UOHT6_2025-06-19_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/GQ6iDPOR_L97GY6VRD3_2025-06-19_2.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/GQ6iDPOR_R7QI1UOHT6_2025-06-19_1.png"
+      ]
     },
     {
       "id": "HOD-95",
@@ -405,28 +306,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-95.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-95.png",
       "imageFile": "hod-95.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-95.png",
       "gallery": [
         {
           "file": "hod-95.png",
-          "path": "/products/images/hod-95.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-95.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/lpLXGwjo_INOO1ZRVO1_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-95.png"
         },
         {
           "file": "hod-95-2.jpg",
-          "path": "/products/images/hod-95-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-95-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/lpLXGwjo_RKNH7YMHKP_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-95-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/lpLXGwjo_INOO1ZRVO1_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/lpLXGwjo_RKNH7YMHKP_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/lpLXGwjo_INOO1ZRVO1_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-133",
@@ -445,28 +336,18 @@
       "idealFor": "",
       "feature": "",
       "quantity": 30,
-      "image": "/products/images/hod-133.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-133.png",
       "imageFile": "hod-133.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-133.png",
       "gallery": [
         {
           "file": "hod-133.png",
-          "path": "/products/images/hod-133.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-133.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Chocolate_Brown_flower_Vase__wooden_material__WITHOUT_flowers_DJR1TY2UZI_2025-07-16_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-133.png"
         },
         {
           "file": "hod-133-2.jpg",
-          "path": "/products/images/hod-133-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-133-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Chocolate_Brown_flower_Vase__wooden_material__WITHOUT_flowers_KEST5ZWYYU_2025-07-16_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-133-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Chocolate_Brown_flower_Vase__wooden_material__WITHOUT_flowers_DJR1TY2UZI_2025-07-16_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Chocolate_Brown_flower_Vase__wooden_material__WITHOUT_flowers_KEST5ZWYYU_2025-07-16_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Chocolate_Brown_flower_Vase__wooden_material__WITHOUT_flowers_DJR1TY2UZI_2025-07-16_1.png"
+      ]
     },
     {
       "id": "HOD-132",
@@ -485,49 +366,30 @@
       "idealFor": "",
       "feature": "",
       "quantity": 100,
-      "image": "/products/images/hod-132.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132.png",
       "imageFile": "hod-132.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132.png",
       "gallery": [
         {
           "file": "hod-132.png",
-          "path": "/products/images/hod-132.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Combo_of_Artificial_ranunculus_flower_bouquet__2_sticks__with_White_Vase_2RGEBOCQBT_2025-07-16_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132.png"
         },
         {
           "file": "hod-132-2.png",
-          "path": "/products/images/hod-132-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Combo_of_Artificial_ranunculus_flower_bouquet__2_sticks__with_White_Vase_8NLXQ0TLUJ_2025-07-16_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132-2.png"
         },
         {
           "file": "hod-132-3.png",
-          "path": "/products/images/hod-132-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Combo_of_Artificial_ranunculus_flower_bouquet__2_sticks__with_White_Vase_3WV9PHG0MD_2025-07-16_3.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132-3.png"
         },
         {
           "file": "hod-132-4.jpg",
-          "path": "/products/images/hod-132-4.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132-4.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Combo_of_Artificial_ranunculus_flower_bouquet__2_sticks__with_White_Vase_4E9AJQ269W_2025-07-16_4.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132-4.jpg"
         },
         {
           "file": "hod-132-5.jpg",
-          "path": "/products/images/hod-132-5.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132-5.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/FPjt9rWn_6CZAGY1GK6_2025-07-16_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-132-5.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Combo_of_Artificial_ranunculus_flower_bouquet__2_sticks__with_White_Vase_2RGEBOCQBT_2025-07-16_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Combo_of_Artificial_ranunculus_flower_bouquet__2_sticks__with_White_Vase_8NLXQ0TLUJ_2025-07-16_2.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Combo_of_Artificial_ranunculus_flower_bouquet__2_sticks__with_White_Vase_3WV9PHG0MD_2025-07-16_3.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Combo_of_Artificial_ranunculus_flower_bouquet__2_sticks__with_White_Vase_4E9AJQ269W_2025-07-16_4.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/FPjt9rWn_6CZAGY1GK6_2025-07-16_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Combo_of_Artificial_ranunculus_flower_bouquet__2_sticks__with_White_Vase_2RGEBOCQBT_2025-07-16_1.png"
+      ]
     },
     {
       "id": "HOD-130",
@@ -546,28 +408,18 @@
       "idealFor": "",
       "feature": "",
       "quantity": 30,
-      "image": "/products/images/hod-130.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-130.jpg",
       "imageFile": "hod-130.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-130.jpg",
       "gallery": [
         {
           "file": "hod-130.jpg",
-          "path": "/products/images/hod-130.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-130.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Yellow_Artificial_leaf_bunch_in_stylish_white_pot_PUYDM3AESS_2025-07-14_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-130.jpg"
         },
         {
           "file": "hod-130-2.jpg",
-          "path": "/products/images/hod-130-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-130-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Yellow_Artificial_leaf_bunch_in_stylish_white_pot_ZKRD7NTAKT_2025-07-14_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-130-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Yellow_Artificial_leaf_bunch_in_stylish_white_pot_PUYDM3AESS_2025-07-14_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Yellow_Artificial_leaf_bunch_in_stylish_white_pot_ZKRD7NTAKT_2025-07-14_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Yellow_Artificial_leaf_bunch_in_stylish_white_pot_PUYDM3AESS_2025-07-14_1.jpg"
+      ]
     },
     {
       "id": "HOD-126",
@@ -586,28 +438,18 @@
       "idealFor": "",
       "feature": "",
       "quantity": 30,
-      "image": "/products/images/hod-126.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-126.jpg",
       "imageFile": "hod-126.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-126.jpg",
       "gallery": [
         {
           "file": "hod-126.jpg",
-          "path": "/products/images/hod-126.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-126.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Pink_Artificial_leaf_bunch_in_stylish_Vase_0QZP3BW4UT_2025-07-14_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-126.jpg"
         },
         {
           "file": "hod-126-2.jpg",
-          "path": "/products/images/hod-126-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-126-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Pink_Artificial_leaf_bunch_in_stylish_Vase_WA3ZML9W7D_2025-07-14_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-126-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Pink_Artificial_leaf_bunch_in_stylish_Vase_0QZP3BW4UT_2025-07-14_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Pink_Artificial_leaf_bunch_in_stylish_Vase_WA3ZML9W7D_2025-07-14_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Pink_Artificial_leaf_bunch_in_stylish_Vase_0QZP3BW4UT_2025-07-14_1.jpg"
+      ]
     },
     {
       "id": "HOD-127",
@@ -626,28 +468,18 @@
       "idealFor": "",
       "feature": "",
       "quantity": 30,
-      "image": "/products/images/hod-127.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-127.jpg",
       "imageFile": "hod-127.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-127.jpg",
       "gallery": [
         {
           "file": "hod-127.jpg",
-          "path": "/products/images/hod-127.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-127.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Purple_Artificial_Leaf_Bunch_in_stylish_white_Vase_LWQSAFBCWB_2025-07-14_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-127.jpg"
         },
         {
           "file": "hod-127-2.jpg",
-          "path": "/products/images/hod-127-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-127-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Purple_Artificial_Leaf_Bunch_in_stylish_white_Vase_DCBYC9QDII_2025-07-14_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-127-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Purple_Artificial_Leaf_Bunch_in_stylish_white_Vase_LWQSAFBCWB_2025-07-14_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Purple_Artificial_Leaf_Bunch_in_stylish_white_Vase_DCBYC9QDII_2025-07-14_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Purple_Artificial_Leaf_Bunch_in_stylish_white_Vase_LWQSAFBCWB_2025-07-14_1.jpg"
+      ]
     },
     {
       "id": "HOD- 128",
@@ -666,28 +498,18 @@
       "idealFor": "",
       "feature": "",
       "quantity": 30,
-      "image": "/products/images/hod-128.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-128.jpg",
       "imageFile": "hod-128.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-128.jpg",
       "gallery": [
         {
           "file": "hod-128.jpg",
-          "path": "/products/images/hod-128.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-128.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Neon_Green_Artificial_leaf_bunch_in_stylish_white_Vase_SVL7EKBGN8_2025-07-14_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-128.jpg"
         },
         {
           "file": "hod-128-2.jpg",
-          "path": "/products/images/hod-128-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-128-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Neon_Green_Artificial_leaf_bunch_in_stylish_white_Vase_YGYNF7O0KA_2025-07-14_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-128-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Neon_Green_Artificial_leaf_bunch_in_stylish_white_Vase_SVL7EKBGN8_2025-07-14_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Neon_Green_Artificial_leaf_bunch_in_stylish_white_Vase_YGYNF7O0KA_2025-07-14_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Neon_Green_Artificial_leaf_bunch_in_stylish_white_Vase_SVL7EKBGN8_2025-07-14_1.jpg"
+      ]
     },
     {
       "id": "HOD-129",
@@ -706,28 +528,18 @@
       "idealFor": "",
       "feature": "",
       "quantity": 30,
-      "image": "/products/images/hod-129.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-129.jpg",
       "imageFile": "hod-129.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-129.jpg",
       "gallery": [
         {
           "file": "hod-129.jpg",
-          "path": "/products/images/hod-129.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-129.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Blue_Artificial_leaf_bunch_in_stylish_white_Vase_K0RG6GVWOJ_2025-07-14_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-129.jpg"
         },
         {
           "file": "hod-129-2.jpg",
-          "path": "/products/images/hod-129-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-129-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Blue_Artificial_leaf_bunch_in_stylish_white_Vase_9Z8XDKYU25_2025-07-14_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-129-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Blue_Artificial_leaf_bunch_in_stylish_white_Vase_K0RG6GVWOJ_2025-07-14_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Blue_Artificial_leaf_bunch_in_stylish_white_Vase_9Z8XDKYU25_2025-07-14_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Blue_Artificial_leaf_bunch_in_stylish_white_Vase_K0RG6GVWOJ_2025-07-14_1.jpg"
+      ]
     },
     {
       "id": "HOD-131",
@@ -746,42 +558,26 @@
       "idealFor": "",
       "feature": "",
       "quantity": 30,
-      "image": "/products/images/hod-131.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131.png",
       "imageFile": "hod-131.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131.png",
       "gallery": [
         {
           "file": "hod-131.png",
-          "path": "/products/images/hod-131.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Reddish_Orange__yellow_Artificial_Chrysanthemum_flower_stick_with_white_donut_Vase_DM2480BX5R_2025-07-16_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131.png"
         },
         {
           "file": "hod-131-2.png",
-          "path": "/products/images/hod-131-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Reddish_Orange__yellow_Artificial_Chrysanthemum_flower_stick_with_white_donut_Vase_8HPSLORABD_2025-07-16_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131-2.png"
         },
         {
           "file": "hod-131-3.jpg",
-          "path": "/products/images/hod-131-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Reddish_Orange__yellow_Artificial_Chrysanthemum_flower_stick_with_white_donut_Vase_EMMY7E36U3_2025-07-16_3.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131-3.jpg"
         },
         {
           "file": "hod-131-4.jpg",
-          "path": "/products/images/hod-131-4.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131-4.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3vDbVg7G_ZSBEZ5Q95W_2025-07-16_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-131-4.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Reddish_Orange__yellow_Artificial_Chrysanthemum_flower_stick_with_white_donut_Vase_DM2480BX5R_2025-07-16_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Reddish_Orange__yellow_Artificial_Chrysanthemum_flower_stick_with_white_donut_Vase_8HPSLORABD_2025-07-16_2.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Reddish_Orange__yellow_Artificial_Chrysanthemum_flower_stick_with_white_donut_Vase_EMMY7E36U3_2025-07-16_3.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3vDbVg7G_ZSBEZ5Q95W_2025-07-16_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Reddish_Orange__yellow_Artificial_Chrysanthemum_flower_stick_with_white_donut_Vase_DM2480BX5R_2025-07-16_1.png"
+      ]
     },
     {
       "id": "HOD-64",
@@ -800,28 +596,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-64.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-64.png",
       "imageFile": "hod-64.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-64.png",
       "gallery": [
         {
           "file": "hod-64.png",
-          "path": "/products/images/hod-64.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-64.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/UC5vCkNs_KSWTLF2MMO_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-64.png"
         },
         {
           "file": "hod-64-2.jpg",
-          "path": "/products/images/hod-64-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-64-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/UC5vCkNs_I9V3P9EQXY_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-64-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/UC5vCkNs_KSWTLF2MMO_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/UC5vCkNs_I9V3P9EQXY_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/UC5vCkNs_KSWTLF2MMO_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-63",
@@ -840,28 +626,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-63.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-63.png",
       "imageFile": "hod-63.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-63.png",
       "gallery": [
         {
           "file": "hod-63.png",
-          "path": "/products/images/hod-63.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-63.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2HIPKe2s_5FKKRYEN0N_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-63.png"
         },
         {
           "file": "hod-63-2.png",
-          "path": "/products/images/hod-63-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-63-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2HIPKe2s_WZUQNIFZXT_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-63-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2HIPKe2s_5FKKRYEN0N_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2HIPKe2s_WZUQNIFZXT_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2HIPKe2s_5FKKRYEN0N_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-125",
@@ -880,28 +656,18 @@
       "idealFor": "",
       "feature": "",
       "quantity": 30,
-      "image": "/products/images/hod-125.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-125.png",
       "imageFile": "hod-125.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-125.png",
       "gallery": [
         {
           "file": "hod-125.png",
-          "path": "/products/images/hod-125.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-125.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Green_Artificial_Dieffenbachia_leaves_with_Stick_For_Home_Decor_MB4SKIIVHU_2025-07-08_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-125.png"
         },
         {
           "file": "hod-125-2.jpg",
-          "path": "/products/images/hod-125-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-125-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Green_Artificial_Dieffenbachia_leaves_with_Stick_For_Home_Decor_AH011U3UYK_2025-07-08_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-125-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Green_Artificial_Dieffenbachia_leaves_with_Stick_For_Home_Decor_MB4SKIIVHU_2025-07-08_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Green_Artificial_Dieffenbachia_leaves_with_Stick_For_Home_Decor_AH011U3UYK_2025-07-08_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Green_Artificial_Dieffenbachia_leaves_with_Stick_For_Home_Decor_MB4SKIIVHU_2025-07-08_1.png"
+      ]
     },
     {
       "id": "HOD-77",
@@ -920,35 +686,22 @@
       "idealFor": "Indoor and Outdoor Settings- ideal for busy lifestyles. Perfect for home decor",
       "feature": "Low Maintenance: No watering or sunlight. Plastic leaves are removable and washable.",
       "quantity": 30,
-      "image": "/products/images/hod-77.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-77.png",
       "imageFile": "hod-77.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-77.png",
       "gallery": [
         {
           "file": "hod-77.png",
-          "path": "/products/images/hod-77.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-77.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xvi4E2_6_H10UFKG43R_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-77.png"
         },
         {
           "file": "hod-77-2.png",
-          "path": "/products/images/hod-77-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-77-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xvi4E2_6_1X16P8ROVV_2025-06-10_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-77-2.png"
         },
         {
           "file": "hod-77-3.jpg",
-          "path": "/products/images/hod-77-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-77-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xvi4E2_6_G9DN0K0NGT_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-77-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xvi4E2_6_H10UFKG43R_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xvi4E2_6_1X16P8ROVV_2025-06-10_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xvi4E2_6_G9DN0K0NGT_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xvi4E2_6_H10UFKG43R_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-88",
@@ -967,28 +720,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Durable Pot- sturdy container for easy placement.",
       "quantity": 28,
-      "image": "/products/images/hod-88.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-88.png",
       "imageFile": "hod-88.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-88.png",
       "gallery": [
         {
           "file": "hod-88.png",
-          "path": "/products/images/hod-88.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-88.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/MPEtUdk7_8JZ05X7919_2025-06-20_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-88.png"
         },
         {
           "file": "hod-88-2.jpg",
-          "path": "/products/images/hod-88-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-88-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/MPEtUdk7_G3SAIIUN7A_2025-06-20_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-88-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/MPEtUdk7_8JZ05X7919_2025-06-20_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/MPEtUdk7_G3SAIIUN7A_2025-06-20_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/MPEtUdk7_8JZ05X7919_2025-06-20_1.png"
+      ]
     },
     {
       "id": "HOD-56",
@@ -1007,35 +750,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-56.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-56.png",
       "imageFile": "hod-56.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-56.png",
       "gallery": [
         {
           "file": "hod-56.png",
-          "path": "/products/images/hod-56.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-56.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/jomXqV_k_4X7M4P4R0J_2025-07-04_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-56.png"
         },
         {
           "file": "hod-56-2.png",
-          "path": "/products/images/hod-56-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-56-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/jomXqV_k_DQLN570YG6_2025-06-20_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-56-2.png"
         },
         {
           "file": "hod-56-3.jpg",
-          "path": "/products/images/hod-56-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-56-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/jomXqV_k_LR4JKPWMLY_2025-06-19_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-56-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/jomXqV_k_4X7M4P4R0J_2025-07-04_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/jomXqV_k_DQLN570YG6_2025-06-20_2.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/jomXqV_k_LR4JKPWMLY_2025-06-19_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/jomXqV_k_4X7M4P4R0J_2025-07-04_1.png"
+      ]
     },
     {
       "id": "HOD-82",
@@ -1054,35 +784,22 @@
       "idealFor": "Indoor and Outdoor Settings- ideal for busy lifestyles. Perfect for home decor",
       "feature": "Low Maintenance: No watering or sunlight. Plastic leaves are removable and washable.",
       "quantity": 24,
-      "image": "/products/images/hod-82.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-82.png",
       "imageFile": "hod-82.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-82.png",
       "gallery": [
         {
           "file": "hod-82.png",
-          "path": "/products/images/hod-82.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-82.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/6JrLShqJ_A7ZDWSO802_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-82.png"
         },
         {
           "file": "hod-82-2.png",
-          "path": "/products/images/hod-82-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-82-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/6JrLShqJ_NIDWMR9OMB_2025-06-10_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-82-2.png"
         },
         {
           "file": "hod-82-3.png",
-          "path": "/products/images/hod-82-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-82-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/6JrLShqJ_D84L0BYY58_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-82-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/6JrLShqJ_A7ZDWSO802_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/6JrLShqJ_NIDWMR9OMB_2025-06-10_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/6JrLShqJ_D84L0BYY58_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/6JrLShqJ_A7ZDWSO802_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-84",
@@ -1101,28 +818,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Durable Pot- sturdy container for easy placement.",
       "quantity": 28,
-      "image": "/products/images/hod-84.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-84.png",
       "imageFile": "hod-84.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-84.png",
       "gallery": [
         {
           "file": "hod-84.png",
-          "path": "/products/images/hod-84.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-84.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/OJe0WHZE_K33FP9M6JI_2025-06-27_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-84.png"
         },
         {
           "file": "hod-84-2.jpg",
-          "path": "/products/images/hod-84-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-84-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/OJe0WHZE_Z5QREVLSYA_2025-06-27_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-84-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/OJe0WHZE_K33FP9M6JI_2025-06-27_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/OJe0WHZE_Z5QREVLSYA_2025-06-27_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/OJe0WHZE_K33FP9M6JI_2025-06-27_1.png"
+      ]
     },
     {
       "id": "HOD-99",
@@ -1141,28 +848,18 @@
       "idealFor": "Indoor and Outdoor Settings Perfect for Weddings, events, or elegant home decor",
       "feature": "Low Maintenance: No watering or sunlight No fading, No mess, Allergy friendly",
       "quantity": 26,
-      "image": "/products/images/hod-99.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-99.png",
       "imageFile": "hod-99.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-99.png",
       "gallery": [
         {
           "file": "hod-99.png",
-          "path": "/products/images/hod-99.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-99.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7XZlPd_u_5K9CDGUZV1_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-99.png"
         },
         {
           "file": "hod-99-2.png",
-          "path": "/products/images/hod-99-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-99-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7XZlPd_u_04LRTTU5IH_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-99-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7XZlPd_u_5K9CDGUZV1_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7XZlPd_u_04LRTTU5IH_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7XZlPd_u_5K9CDGUZV1_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-115",
@@ -1181,42 +878,26 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-115.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115.jpg",
       "imageFile": "hod-115.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115.jpg",
       "gallery": [
         {
           "file": "hod-115.jpg",
-          "path": "/products/images/hod-115.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/cIskwx61_20RF47H3LQ_2025-06-09_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115.jpg"
         },
         {
           "file": "hod-115-2.png",
-          "path": "/products/images/hod-115-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/cIskwx61_9IR5NP17V0_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115-2.png"
         },
         {
           "file": "hod-115-3.png",
-          "path": "/products/images/hod-115-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/cIskwx61_N12WU8Z5HS_2025-06-12_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115-3.png"
         },
         {
           "file": "hod-115-4.png",
-          "path": "/products/images/hod-115-4.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115-4.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/cIskwx61_P7EM4FDCSS_2025-06-12_3.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-115-4.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/cIskwx61_20RF47H3LQ_2025-06-09_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/cIskwx61_9IR5NP17V0_2025-06-12_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/cIskwx61_N12WU8Z5HS_2025-06-12_2.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/cIskwx61_P7EM4FDCSS_2025-06-12_3.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/cIskwx61_20RF47H3LQ_2025-06-09_1.jpg"
+      ]
     },
     {
       "id": "HOD-114",
@@ -1235,42 +916,26 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-114.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114.jpg",
       "imageFile": "hod-114.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114.jpg",
       "gallery": [
         {
           "file": "hod-114.jpg",
-          "path": "/products/images/hod-114.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3Z6lZJNu_NXV69AW9Q4_2025-06-09_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114.jpg"
         },
         {
           "file": "hod-114-2.png",
-          "path": "/products/images/hod-114-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3Z6lZJNu_0B0T9PYQYM_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114-2.png"
         },
         {
           "file": "hod-114-3.png",
-          "path": "/products/images/hod-114-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3Z6lZJNu_ST0C3732A7_2025-06-12_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114-3.png"
         },
         {
           "file": "hod-114-4.png",
-          "path": "/products/images/hod-114-4.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114-4.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3Z6lZJNu_AB1HB55VYA_2025-06-12_3.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-114-4.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3Z6lZJNu_NXV69AW9Q4_2025-06-09_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3Z6lZJNu_0B0T9PYQYM_2025-06-12_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3Z6lZJNu_ST0C3732A7_2025-06-12_2.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3Z6lZJNu_AB1HB55VYA_2025-06-12_3.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3Z6lZJNu_NXV69AW9Q4_2025-06-09_1.jpg"
+      ]
     },
     {
       "id": "HOD-108",
@@ -1289,28 +954,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window",
       "feature": "Low Maintenance: No watering or sunlight. Clean with a cloth.",
       "quantity": 29,
-      "image": "/products/images/hod-108.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-108.png",
       "imageFile": "hod-108.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-108.png",
       "gallery": [
         {
           "file": "hod-108.png",
-          "path": "/products/images/hod-108.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-108.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/prvExEa__7UAI0MZ8ZO_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-108.png"
         },
         {
           "file": "hod-108-2.png",
-          "path": "/products/images/hod-108-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-108-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/prvExEa__8X8FTJF9IX_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-108-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/prvExEa__7UAI0MZ8ZO_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/prvExEa__8X8FTJF9IX_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/prvExEa__7UAI0MZ8ZO_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-113",
@@ -1329,42 +984,26 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-113.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113.jpg",
       "imageFile": "hod-113.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113.jpg",
       "gallery": [
         {
           "file": "hod-113.jpg",
-          "path": "/products/images/hod-113.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7pscFSeO_GBP92WGZQB_2025-06-09_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113.jpg"
         },
         {
           "file": "hod-113-2.png",
-          "path": "/products/images/hod-113-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7pscFSeO_L9VVQURGFJ_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113-2.png"
         },
         {
           "file": "hod-113-3.png",
-          "path": "/products/images/hod-113-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7pscFSeO_24HZAC2KR9_2025-06-12_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113-3.png"
         },
         {
           "file": "hod-113-4.png",
-          "path": "/products/images/hod-113-4.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113-4.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7pscFSeO_N6830NQ0DK_2025-06-12_3.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-113-4.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7pscFSeO_GBP92WGZQB_2025-06-09_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7pscFSeO_L9VVQURGFJ_2025-06-12_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7pscFSeO_24HZAC2KR9_2025-06-12_2.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7pscFSeO_N6830NQ0DK_2025-06-12_3.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/7pscFSeO_GBP92WGZQB_2025-06-09_1.jpg"
+      ]
     },
     {
       "id": "HOD-117",
@@ -1383,35 +1022,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-117.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-117.jpg",
       "imageFile": "hod-117.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-117.jpg",
       "gallery": [
         {
           "file": "hod-117.jpg",
-          "path": "/products/images/hod-117.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-117.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_plant_Stick_117_1750851203014_j18kh5e4z91rkn4.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-117.jpg"
         },
         {
           "file": "hod-117-2.jpg",
-          "path": "/products/images/hod-117-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-117-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_plant_Stick_117_1750851202676_ukwkrjawz18e9hu.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-117-2.jpg"
         },
         {
           "file": "hod-117-3.jpg",
-          "path": "/products/images/hod-117-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-117-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/fxIJKcrs_338EXOUNCT_2025-07-03_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-117-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_plant_Stick_117_1750851203014_j18kh5e4z91rkn4.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_plant_Stick_117_1750851202676_ukwkrjawz18e9hu.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/fxIJKcrs_338EXOUNCT_2025-07-03_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_plant_Stick_117_1750851203014_j18kh5e4z91rkn4.jpg"
+      ]
     },
     {
       "id": "HOD-110",
@@ -1430,28 +1056,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window",
       "feature": "Low Maintenance: No watering or sunlight. Washable",
       "quantity": 30,
-      "image": "/products/images/hod-110.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-110.png",
       "imageFile": "hod-110.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-110.png",
       "gallery": [
         {
           "file": "hod-110.png",
-          "path": "/products/images/hod-110.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-110.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x6HVUtqi_651DLD839V_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-110.png"
         },
         {
           "file": "hod-110-2.png",
-          "path": "/products/images/hod-110-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-110-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x6HVUtqi_DS9OXAI05T_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-110-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x6HVUtqi_651DLD839V_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x6HVUtqi_DS9OXAI05T_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x6HVUtqi_651DLD839V_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-119",
@@ -1470,35 +1086,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway)Table centerpiece for dining or coffee tables. Balcony or window. Gifting for housewarmings, birthdays, or anniversaries. Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-119.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-119.jpg",
       "imageFile": "hod-119.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-119.jpg",
       "gallery": [
         {
           "file": "hod-119.jpg",
-          "path": "/products/images/hod-119.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-119.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_119_1750851206399_sya50g4n2hhfjar.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-119.jpg"
         },
         {
           "file": "hod-119-2.jpg",
-          "path": "/products/images/hod-119-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-119-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_119_1750851206411_udzxdbkf3r3pu1h.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-119-2.jpg"
         },
         {
           "file": "hod-119-3.jpg",
-          "path": "/products/images/hod-119-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-119-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/_LNHM5Ge_O0GECW9G5S_2025-07-03_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-119-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_119_1750851206399_sya50g4n2hhfjar.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_119_1750851206411_udzxdbkf3r3pu1h.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/_LNHM5Ge_O0GECW9G5S_2025-07-03_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Artificial_Flower_Stick_119_1750851206399_sya50g4n2hhfjar.jpg"
+      ]
     },
     {
       "id": "HOD-86",
@@ -1517,28 +1120,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Durable Pot- sturdy container for easy placement.",
       "quantity": 30,
-      "image": "/products/images/hod-86.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-86.png",
       "imageFile": "hod-86.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-86.png",
       "gallery": [
         {
           "file": "hod-86.png",
-          "path": "/products/images/hod-86.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-86.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/oeLUYeQR_EIGC8EHKE3_2025-06-30_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-86.png"
         },
         {
           "file": "hod-86-2.png",
-          "path": "/products/images/hod-86-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-86-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/oeLUYeQR_QE6P4CN916_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-86-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/oeLUYeQR_EIGC8EHKE3_2025-06-30_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/oeLUYeQR_QE6P4CN916_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/oeLUYeQR_EIGC8EHKE3_2025-06-30_1.png"
+      ]
     },
     {
       "id": "HOD-109",
@@ -1557,35 +1150,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window",
       "feature": "Low Maintenance: No watering or sunlight. Clean with a cloth.",
       "quantity": 30,
-      "image": "/products/images/hod-109.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-109.png",
       "imageFile": "hod-109.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-109.png",
       "gallery": [
         {
           "file": "hod-109.png",
-          "path": "/products/images/hod-109.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-109.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/delTKUCB_BQ22WDJRLR_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-109.png"
         },
         {
           "file": "hod-109-2.png",
-          "path": "/products/images/hod-109-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-109-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/delTKUCB_37CEUF2P4H_2025-07-08_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-109-2.png"
         },
         {
           "file": "hod-109-3.png",
-          "path": "/products/images/hod-109-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-109-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/delTKUCB_VWCZUO24II_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-109-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/delTKUCB_BQ22WDJRLR_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/delTKUCB_37CEUF2P4H_2025-07-08_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/delTKUCB_VWCZUO24II_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/delTKUCB_BQ22WDJRLR_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-58",
@@ -1604,35 +1184,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-58.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-58.png",
       "imageFile": "hod-58.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-58.png",
       "gallery": [
         {
           "file": "hod-58.png",
-          "path": "/products/images/hod-58.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-58.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/rXyMKs4Q_S1RF4LYFOG_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-58.png"
         },
         {
           "file": "hod-58-2.jpg",
-          "path": "/products/images/hod-58-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-58-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/rXyMKs4Q_XKV508QQ5G_2025-06-10_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-58-2.jpg"
         },
         {
           "file": "hod-58-3.png",
-          "path": "/products/images/hod-58-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-58-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/rXyMKs4Q_ST15CLLMW4_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-58-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/rXyMKs4Q_S1RF4LYFOG_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/rXyMKs4Q_XKV508QQ5G_2025-06-10_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/rXyMKs4Q_ST15CLLMW4_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/rXyMKs4Q_S1RF4LYFOG_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-66",
@@ -1651,35 +1218,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-66.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-66.png",
       "imageFile": "hod-66.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-66.png",
       "gallery": [
         {
           "file": "hod-66.png",
-          "path": "/products/images/hod-66.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-66.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JPfb6O85_VOC8DRS79Z_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-66.png"
         },
         {
           "file": "hod-66-2.jpg",
-          "path": "/products/images/hod-66-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-66-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JPfb6O85_VECU5F339C_2025-06-09_3.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-66-2.jpg"
         },
         {
           "file": "hod-66-3.jpg",
-          "path": "/products/images/hod-66-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-66-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JPfb6O85_94N38B7FKW_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-66-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JPfb6O85_VOC8DRS79Z_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JPfb6O85_VECU5F339C_2025-06-09_3.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JPfb6O85_94N38B7FKW_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JPfb6O85_VOC8DRS79Z_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-69",
@@ -1698,35 +1252,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-69.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-69.png",
       "imageFile": "hod-69.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-69.png",
       "gallery": [
         {
           "file": "hod-69.png",
-          "path": "/products/images/hod-69.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-69.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/heXFDjvP_FLA4IZO42H_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-69.png"
         },
         {
           "file": "hod-69-2.jpg",
-          "path": "/products/images/hod-69-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-69-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/heXFDjvP_FAZH40RBT1_2025-06-09_3.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-69-2.jpg"
         },
         {
           "file": "hod-69-3.png",
-          "path": "/products/images/hod-69-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-69-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/heXFDjvP_EOHQKU35O3_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-69-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/heXFDjvP_FLA4IZO42H_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/heXFDjvP_FAZH40RBT1_2025-06-09_3.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/heXFDjvP_EOHQKU35O3_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/heXFDjvP_FLA4IZO42H_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-67",
@@ -1745,28 +1286,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-67.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-67.png",
       "imageFile": "hod-67.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-67.png",
       "gallery": [
         {
           "file": "hod-67.png",
-          "path": "/products/images/hod-67.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-67.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/aihVGZZv_0CROOKJRHJ_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-67.png"
         },
         {
           "file": "hod-67-2.jpg",
-          "path": "/products/images/hod-67-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-67-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/aihVGZZv_UV0BY5L65B_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-67-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/aihVGZZv_0CROOKJRHJ_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/aihVGZZv_UV0BY5L65B_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/aihVGZZv_0CROOKJRHJ_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-97",
@@ -1785,28 +1316,18 @@
       "idealFor": "Indoor and Outdoor Settings Perfect for home decor",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 27,
-      "image": "/products/images/hod-97.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-97.png",
       "imageFile": "hod-97.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-97.png",
       "gallery": [
         {
           "file": "hod-97.png",
-          "path": "/products/images/hod-97.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-97.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wE15QCaW_JCIC5TXU4A_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-97.png"
         },
         {
           "file": "hod-97-2.jpg",
-          "path": "/products/images/hod-97-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-97-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wE15QCaW_CGNX1FN3J8_2025-06-10_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-97-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wE15QCaW_JCIC5TXU4A_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wE15QCaW_CGNX1FN3J8_2025-06-10_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wE15QCaW_JCIC5TXU4A_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-55",
@@ -1825,35 +1346,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 29,
-      "image": "/products/images/hod-55.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-55.jpg",
       "imageFile": "hod-55.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-55.jpg",
       "gallery": [
         {
           "file": "hod-55.jpg",
-          "path": "/products/images/hod-55.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-55.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/sdP5xQBO_0R7NAF65YS_2025-06-10_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-55.jpg"
         },
         {
           "file": "hod-55-2.jpg",
-          "path": "/products/images/hod-55-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-55-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/sdP5xQBO_KDBXW6UWUC_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-55-2.jpg"
         },
         {
           "file": "hod-55-3.png",
-          "path": "/products/images/hod-55-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-55-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/sdP5xQBO_26Q6FUD63J_2025-06-20_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-55-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/sdP5xQBO_0R7NAF65YS_2025-06-10_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/sdP5xQBO_KDBXW6UWUC_2025-06-12_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/sdP5xQBO_26Q6FUD63J_2025-06-20_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/sdP5xQBO_0R7NAF65YS_2025-06-10_1.jpg"
+      ]
     },
     {
       "id": "HOD-79",
@@ -1872,35 +1380,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 28,
-      "image": "/products/images/hod-79.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-79.jpg",
       "imageFile": "hod-79.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-79.jpg",
       "gallery": [
         {
           "file": "hod-79.jpg",
-          "path": "/products/images/hod-79.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-79.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HLfJrewb_FQ4TY2Y9AU_2025-06-09_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-79.jpg"
         },
         {
           "file": "hod-79-2.png",
-          "path": "/products/images/hod-79-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-79-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HLfJrewb_FJDI6C2M6O_2025-06-20_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-79-2.png"
         },
         {
           "file": "hod-79-3.png",
-          "path": "/products/images/hod-79-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-79-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HLfJrewb_T75ZMU56KI_2025-06-20_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-79-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HLfJrewb_FQ4TY2Y9AU_2025-06-09_2.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HLfJrewb_FJDI6C2M6O_2025-06-20_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HLfJrewb_T75ZMU56KI_2025-06-20_2.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HLfJrewb_FQ4TY2Y9AU_2025-06-09_2.jpg"
+      ]
     },
     {
       "id": "HOD-121",
@@ -1919,28 +1414,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Vase for Small Flower Bouquets or flower sticks",
       "quantity": 29,
-      "image": "/products/images/hod-121.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-121.jpg",
       "imageFile": "hod-121.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-121.jpg",
       "gallery": [
         {
           "file": "hod-121.jpg",
-          "path": "/products/images/hod-121.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-121.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_121_1750851209019_5i0ydrv5d0iph02.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-121.jpg"
         },
         {
           "file": "hod-121-2.jpg",
-          "path": "/products/images/hod-121-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-121-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_121_1750851210033_98nxbemnv4nojnk.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-121-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_121_1750851209019_5i0ydrv5d0iph02.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_121_1750851210033_98nxbemnv4nojnk.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_121_1750851209019_5i0ydrv5d0iph02.jpg"
+      ]
     },
     {
       "id": "HOD-91",
@@ -1959,28 +1444,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-91.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-91.png",
       "imageFile": "hod-91.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-91.png",
       "gallery": [
         {
           "file": "hod-91.png",
-          "path": "/products/images/hod-91.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-91.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P5gkkBRW_Q13YMBRG8X_2025-07-04_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-91.png"
         },
         {
           "file": "hod-91-2.jpg",
-          "path": "/products/images/hod-91-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-91-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P5gkkBRW_A8TSR0SDAB_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-91-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P5gkkBRW_Q13YMBRG8X_2025-07-04_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P5gkkBRW_A8TSR0SDAB_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P5gkkBRW_Q13YMBRG8X_2025-07-04_1.png"
+      ]
     },
     {
       "id": "HOD-98",
@@ -1999,35 +1474,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: Clean with a cloth.",
       "quantity": 30,
-      "image": "/products/images/hod-98.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-98.png",
       "imageFile": "hod-98.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-98.png",
       "gallery": [
         {
           "file": "hod-98.png",
-          "path": "/products/images/hod-98.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-98.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C2i_JmzR_IMXIN9649Q_2025-06-30_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-98.png"
         },
         {
           "file": "hod-98-2.png",
-          "path": "/products/images/hod-98-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-98-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C2i_JmzR_O5V3QA1VF0_2025-06-30_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-98-2.png"
         },
         {
           "file": "hod-98-3.jpg",
-          "path": "/products/images/hod-98-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-98-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C2i_JmzR_QZRYW2XUES_2025-07-04_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-98-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C2i_JmzR_IMXIN9649Q_2025-06-30_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C2i_JmzR_O5V3QA1VF0_2025-06-30_2.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C2i_JmzR_QZRYW2XUES_2025-07-04_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/C2i_JmzR_IMXIN9649Q_2025-06-30_1.png"
+      ]
     },
     {
       "id": "HOD-62",
@@ -2046,35 +1508,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-62.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-62.jpg",
       "imageFile": "hod-62.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-62.jpg",
       "gallery": [
         {
           "file": "hod-62.jpg",
-          "path": "/products/images/hod-62.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-62.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JCg3Uzd1_XIHSLKM42Y_2025-06-10_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-62.jpg"
         },
         {
           "file": "hod-62-2.png",
-          "path": "/products/images/hod-62-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-62-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JCg3Uzd1_WZ0U16JL2A_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-62-2.png"
         },
         {
           "file": "hod-62-3.jpg",
-          "path": "/products/images/hod-62-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-62-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JCg3Uzd1_HWUEX8BKAH_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-62-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JCg3Uzd1_XIHSLKM42Y_2025-06-10_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JCg3Uzd1_WZ0U16JL2A_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JCg3Uzd1_HWUEX8BKAH_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/JCg3Uzd1_XIHSLKM42Y_2025-06-10_1.jpg"
+      ]
     },
     {
       "id": "HOD-61",
@@ -2093,35 +1542,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-61.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-61.jpg",
       "imageFile": "hod-61.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-61.jpg",
       "gallery": [
         {
           "file": "hod-61.jpg",
-          "path": "/products/images/hod-61.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-61.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xOkNHl11_JDJ2MHWJ2F_2025-06-10_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-61.jpg"
         },
         {
           "file": "hod-61-2.png",
-          "path": "/products/images/hod-61-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-61-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xOkNHl11_3ZO208NZC1_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-61-2.png"
         },
         {
           "file": "hod-61-3.jpg",
-          "path": "/products/images/hod-61-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-61-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xOkNHl11_FZ08EU7AD8_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-61-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xOkNHl11_JDJ2MHWJ2F_2025-06-10_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xOkNHl11_3ZO208NZC1_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xOkNHl11_FZ08EU7AD8_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/xOkNHl11_JDJ2MHWJ2F_2025-06-10_1.jpg"
+      ]
     },
     {
       "id": "HOD-120",
@@ -2140,28 +1576,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Balcony or window. Gifting for housewarmings, birthdays, or anniversaries.",
       "feature": "Vase for Long Flower Bouquets or flower sticks",
       "quantity": 30,
-      "image": "/products/images/hod-120.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-120.png",
       "imageFile": "hod-120.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-120.png",
       "gallery": [
         {
           "file": "hod-120.png",
-          "path": "/products/images/hod-120.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-120.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/_gZDXyeE_HW28VHYSH2_2025-06-30_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-120.png"
         },
         {
           "file": "hod-120-2.jpg",
-          "path": "/products/images/hod-120-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-120-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_120_1750851209873_72nnv2in7h12osc.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-120-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/_gZDXyeE_HW28VHYSH2_2025-06-30_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_120_1750851209873_72nnv2in7h12osc.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/_gZDXyeE_HW28VHYSH2_2025-06-30_1.png"
+      ]
     },
     {
       "id": "HOD-123",
@@ -2180,35 +1606,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Vase for Small Flower Bouquets or flower sticks",
       "quantity": 30,
-      "image": "/products/images/hod-123.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-123.jpg",
       "imageFile": "hod-123.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-123.jpg",
       "gallery": [
         {
           "file": "hod-123.jpg",
-          "path": "/products/images/hod-123.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-123.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_123_1750851212178_1thri3xmuhi98v2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-123.jpg"
         },
         {
           "file": "hod-123-2.jpg",
-          "path": "/products/images/hod-123-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-123-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_123_1750851212069_wbdw8l3xz66udzq.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-123-2.jpg"
         },
         {
           "file": "hod-123-3.png",
-          "path": "/products/images/hod-123-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-123-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HgCTxGhA_1BUFWTE4X6_2025-07-03_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-123-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_123_1750851212178_1thri3xmuhi98v2.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_123_1750851212069_wbdw8l3xz66udzq.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HgCTxGhA_1BUFWTE4X6_2025-07-03_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_123_1750851212178_1thri3xmuhi98v2.jpg"
+      ]
     },
     {
       "id": "HOD-122",
@@ -2227,28 +1640,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Vase for Small Flower Bouquets or flower sticks",
       "quantity": 30,
-      "image": "/products/images/hod-122.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-122.jpg",
       "imageFile": "hod-122.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-122.jpg",
       "gallery": [
         {
           "file": "hod-122.jpg",
-          "path": "/products/images/hod-122.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-122.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_122_1750851212995_rxjuwtwqvzks6il.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-122.jpg"
         },
         {
           "file": "hod-122-2.jpg",
-          "path": "/products/images/hod-122-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-122-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_122_1750851212513_bcll2hv819zhdi7.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-122-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_122_1750851212995_rxjuwtwqvzks6il.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_122_1750851212513_bcll2hv819zhdi7.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/Vase_122_1750851212995_rxjuwtwqvzks6il.jpg"
+      ]
     },
     {
       "id": "HOD-107",
@@ -2267,28 +1670,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Clean with a cloth.",
       "quantity": 29,
-      "image": "/products/images/hod-107.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-107.png",
       "imageFile": "hod-107.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-107.png",
       "gallery": [
         {
           "file": "hod-107.png",
-          "path": "/products/images/hod-107.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-107.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/uVbijY1n_FLGZH5O481_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-107.png"
         },
         {
           "file": "hod-107-2.jpg",
-          "path": "/products/images/hod-107-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-107-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/uVbijY1n_2O1U753LD0_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-107-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/uVbijY1n_FLGZH5O481_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/uVbijY1n_2O1U753LD0_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/uVbijY1n_FLGZH5O481_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-105",
@@ -2307,28 +1700,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Clean with a cloth.",
       "quantity": 30,
-      "image": "/products/images/hod-105.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-105.png",
       "imageFile": "hod-105.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-105.png",
       "gallery": [
         {
           "file": "hod-105.png",
-          "path": "/products/images/hod-105.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-105.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/QSPgHEGr_24GBFU77BV_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-105.png"
         },
         {
           "file": "hod-105-2.jpg",
-          "path": "/products/images/hod-105-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-105-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/QSPgHEGr_T0K0Z0W78V_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-105-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/QSPgHEGr_24GBFU77BV_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/QSPgHEGr_T0K0Z0W78V_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/QSPgHEGr_24GBFU77BV_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-104",
@@ -2347,28 +1730,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight. Clean with a cloth.",
       "quantity": 30,
-      "image": "/products/images/hod-104.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-104.png",
       "imageFile": "hod-104.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-104.png",
       "gallery": [
         {
           "file": "hod-104.png",
-          "path": "/products/images/hod-104.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-104.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3R9933dm_F2W2EGU6W7_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-104.png"
         },
         {
           "file": "hod-104-2.png",
-          "path": "/products/images/hod-104-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-104-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3R9933dm_AA4XR9IJZZ_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-104-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3R9933dm_F2W2EGU6W7_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3R9933dm_AA4XR9IJZZ_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/3R9933dm_F2W2EGU6W7_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-111",
@@ -2387,28 +1760,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-111.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-111.png",
       "imageFile": "hod-111.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-111.png",
       "gallery": [
         {
           "file": "hod-111.png",
-          "path": "/products/images/hod-111.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-111.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/dye5ISDv_OUPBAOX71V_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-111.png"
         },
         {
           "file": "hod-111-2.png",
-          "path": "/products/images/hod-111-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-111-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/dye5ISDv_454BQI3BPF_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-111-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/dye5ISDv_OUPBAOX71V_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/dye5ISDv_454BQI3BPF_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/dye5ISDv_OUPBAOX71V_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-65",
@@ -2427,28 +1790,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-65.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-65.png",
       "imageFile": "hod-65.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-65.png",
       "gallery": [
         {
           "file": "hod-65.png",
-          "path": "/products/images/hod-65.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-65.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IQmjPgUx_3JSZQMD5SE_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-65.png"
         },
         {
           "file": "hod-65-2.jpg",
-          "path": "/products/images/hod-65-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-65-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IQmjPgUx_T27P1996WL_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-65-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IQmjPgUx_3JSZQMD5SE_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IQmjPgUx_T27P1996WL_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IQmjPgUx_3JSZQMD5SE_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-68",
@@ -2467,28 +1820,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-68.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-68.png",
       "imageFile": "hod-68.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-68.png",
       "gallery": [
         {
           "file": "hod-68.png",
-          "path": "/products/images/hod-68.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-68.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/01977zDA_UYSGD53Y3P_2025-06-30_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-68.png"
         },
         {
           "file": "hod-68-2.jpg",
-          "path": "/products/images/hod-68-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-68-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/01977zDA_PEY2ZYUVTW_2025-06-20_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-68-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/01977zDA_UYSGD53Y3P_2025-06-30_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/01977zDA_PEY2ZYUVTW_2025-06-20_2.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/01977zDA_UYSGD53Y3P_2025-06-30_1.png"
+      ]
     },
     {
       "id": "HOD-70",
@@ -2507,28 +1850,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight- Long Lasting and Easy to maintain",
       "quantity": 30,
-      "image": "/products/images/hod-70.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-70.png",
       "imageFile": "hod-70.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-70.png",
       "gallery": [
         {
           "file": "hod-70.png",
-          "path": "/products/images/hod-70.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-70.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/9Q_lSdkX_V2UDQ936WD_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-70.png"
         },
         {
           "file": "hod-70-2.jpg",
-          "path": "/products/images/hod-70-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-70-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/9Q_lSdkX_5GC2IP39NL_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-70-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/9Q_lSdkX_V2UDQ936WD_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/9Q_lSdkX_5GC2IP39NL_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/9Q_lSdkX_V2UDQ936WD_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-83",
@@ -2547,35 +1880,22 @@
       "idealFor": "Indoor and Outdoor Settings Perfect for home decor | Wall hanging | Indoor landscaping | Event & wedding styling",
       "feature": "Low Maintenance: No watering or sunlight, always fresh",
       "quantity": 29,
-      "image": "/products/images/hod-83.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-83.png",
       "imageFile": "hod-83.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-83.png",
       "gallery": [
         {
           "file": "hod-83.png",
-          "path": "/products/images/hod-83.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-83.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/zbcf9yx3_07JRL5IS6U_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-83.png"
         },
         {
           "file": "hod-83-2.png",
-          "path": "/products/images/hod-83-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-83-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/zbcf9yx3_6MJ9NACYIZ_2025-06-09_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-83-2.png"
         },
         {
           "file": "hod-83-3.jpg",
-          "path": "/products/images/hod-83-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-83-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/zbcf9yx3_KTTNQUTHO0_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-83-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/zbcf9yx3_07JRL5IS6U_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/zbcf9yx3_6MJ9NACYIZ_2025-06-09_2.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/zbcf9yx3_KTTNQUTHO0_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/zbcf9yx3_07JRL5IS6U_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-116",
@@ -2594,42 +1914,26 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-116.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116.jpg",
       "imageFile": "hod-116.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116.jpg",
       "gallery": [
         {
           "file": "hod-116.jpg",
-          "path": "/products/images/hod-116.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x84TiHrt_888ZW4LC5N_2025-06-09_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116.jpg"
         },
         {
           "file": "hod-116-2.jpg",
-          "path": "/products/images/hod-116-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x84TiHrt_YCB2UZGS14_2025-06-13_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116-2.jpg"
         },
         {
           "file": "hod-116-3.jpg",
-          "path": "/products/images/hod-116-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x84TiHrt_KOFJU4POAC_2025-06-13_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116-3.jpg"
         },
         {
           "file": "hod-116-4.jpg",
-          "path": "/products/images/hod-116-4.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116-4.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x84TiHrt_ANGGQ4Q3HN_2025-06-13_3.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-116-4.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x84TiHrt_888ZW4LC5N_2025-06-09_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x84TiHrt_YCB2UZGS14_2025-06-13_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x84TiHrt_KOFJU4POAC_2025-06-13_2.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x84TiHrt_ANGGQ4Q3HN_2025-06-13_3.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/x84TiHrt_888ZW4LC5N_2025-06-09_1.jpg"
+      ]
     },
     {
       "id": "HOD-54",
@@ -2648,35 +1952,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 29,
-      "image": "/products/images/hod-54.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-54.jpg",
       "imageFile": "hod-54.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-54.jpg",
       "gallery": [
         {
           "file": "hod-54.jpg",
-          "path": "/products/images/hod-54.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-54.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/G0FiBsNt_T1MMQ3OJKN_2025-06-10_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-54.jpg"
         },
         {
           "file": "hod-54-2.jpg",
-          "path": "/products/images/hod-54-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-54-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/G0FiBsNt_69TKXC764G_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-54-2.jpg"
         },
         {
           "file": "hod-54-3.png",
-          "path": "/products/images/hod-54-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-54-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/G0FiBsNt_VZZ9C0F73V_2025-06-20_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-54-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/G0FiBsNt_T1MMQ3OJKN_2025-06-10_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/G0FiBsNt_69TKXC764G_2025-06-12_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/G0FiBsNt_VZZ9C0F73V_2025-06-20_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/G0FiBsNt_T1MMQ3OJKN_2025-06-10_1.jpg"
+      ]
     },
     {
       "id": "HOD-90",
@@ -2695,28 +1986,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-90.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-90.png",
       "imageFile": "hod-90.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-90.png",
       "gallery": [
         {
           "file": "hod-90.png",
-          "path": "/products/images/hod-90.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-90.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/PKCWPtf5_R7L4Q10R2R_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-90.png"
         },
         {
           "file": "hod-90-2.png",
-          "path": "/products/images/hod-90-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-90-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/PKCWPtf5_XMHBWV797A_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-90-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/PKCWPtf5_R7L4Q10R2R_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/PKCWPtf5_XMHBWV797A_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/PKCWPtf5_R7L4Q10R2R_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-52",
@@ -2735,35 +2016,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-52.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-52.png",
       "imageFile": "hod-52.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-52.png",
       "gallery": [
         {
           "file": "hod-52.png",
-          "path": "/products/images/hod-52.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-52.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/olxPXBsU_X0SBRUMZPT_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-52.png"
         },
         {
           "file": "hod-52-2.jpg",
-          "path": "/products/images/hod-52-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-52-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/olxPXBsU_C9G4A7KP7I_2025-06-10_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-52-2.jpg"
         },
         {
           "file": "hod-52-3.jpg",
-          "path": "/products/images/hod-52-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-52-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/olxPXBsU_2KTJXYXRGC_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-52-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/olxPXBsU_X0SBRUMZPT_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/olxPXBsU_C9G4A7KP7I_2025-06-10_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/olxPXBsU_2KTJXYXRGC_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/olxPXBsU_X0SBRUMZPT_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-51",
@@ -2782,35 +2050,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-51.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-51.jpg",
       "imageFile": "hod-51.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-51.jpg",
       "gallery": [
         {
           "file": "hod-51.jpg",
-          "path": "/products/images/hod-51.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-51.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/d_HtWnPS_4JFSTI83V0_2025-06-20_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-51.jpg"
         },
         {
           "file": "hod-51-2.png",
-          "path": "/products/images/hod-51-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-51-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/d_HtWnPS_ET1OOF1RWT_2025-06-20_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-51-2.png"
         },
         {
           "file": "hod-51-3.jpg",
-          "path": "/products/images/hod-51-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-51-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/d_HtWnPS_RIT0E3I84Y_2025-06-20_3.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-51-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/d_HtWnPS_4JFSTI83V0_2025-06-20_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/d_HtWnPS_ET1OOF1RWT_2025-06-20_2.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/d_HtWnPS_RIT0E3I84Y_2025-06-20_3.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/d_HtWnPS_4JFSTI83V0_2025-06-20_1.jpg"
+      ]
     },
     {
       "id": "HOD-78",
@@ -2829,35 +2084,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-78.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-78.jpg",
       "imageFile": "hod-78.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-78.jpg",
       "gallery": [
         {
           "file": "hod-78.jpg",
-          "path": "/products/images/hod-78.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-78.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/tpx3gWy8_Z3QXPJSRZG_2025-06-09_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-78.jpg"
         },
         {
           "file": "hod-78-2.png",
-          "path": "/products/images/hod-78-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-78-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/tpx3gWy8_4EE91WCW0E_2025-06-20_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-78-2.png"
         },
         {
           "file": "hod-78-3.png",
-          "path": "/products/images/hod-78-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-78-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/tpx3gWy8_K55RDCVL0O_2025-06-20_2.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-78-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/tpx3gWy8_Z3QXPJSRZG_2025-06-09_2.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/tpx3gWy8_4EE91WCW0E_2025-06-20_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/tpx3gWy8_K55RDCVL0O_2025-06-20_2.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/tpx3gWy8_Z3QXPJSRZG_2025-06-09_2.jpg"
+      ]
     },
     {
       "id": "HOD-81",
@@ -2876,35 +2118,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-81.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-81.jpg",
       "imageFile": "hod-81.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-81.jpg",
       "gallery": [
         {
           "file": "hod-81.jpg",
-          "path": "/products/images/hod-81.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-81.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HitL_D9Q_TML79H7SHE_2025-06-09_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-81.jpg"
         },
         {
           "file": "hod-81-2.jpg",
-          "path": "/products/images/hod-81-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-81-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HitL_D9Q_X63F354VGS_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-81-2.jpg"
         },
         {
           "file": "hod-81-3.png",
-          "path": "/products/images/hod-81-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-81-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HitL_D9Q_WZYD4DAK17_2025-06-20_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-81-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HitL_D9Q_TML79H7SHE_2025-06-09_2.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HitL_D9Q_X63F354VGS_2025-06-12_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HitL_D9Q_WZYD4DAK17_2025-06-20_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/HitL_D9Q_TML79H7SHE_2025-06-09_2.jpg"
+      ]
     },
     {
       "id": "HOD-59",
@@ -2923,28 +2152,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-59.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-59.png",
       "imageFile": "hod-59.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-59.png",
       "gallery": [
         {
           "file": "hod-59.png",
-          "path": "/products/images/hod-59.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-59.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/yAw710OO_WUDJOUSN1X_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-59.png"
         },
         {
           "file": "hod-59-2.jpg",
-          "path": "/products/images/hod-59-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-59-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/yAw710OO_AF7N0FRH75_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-59-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/yAw710OO_WUDJOUSN1X_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/yAw710OO_AF7N0FRH75_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/yAw710OO_WUDJOUSN1X_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-80",
@@ -2963,35 +2182,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-80.jpg",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-80.jpg",
       "imageFile": "hod-80.jpg",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-80.jpg",
       "gallery": [
         {
           "file": "hod-80.jpg",
-          "path": "/products/images/hod-80.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-80.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/t3DoZt3T_JZWOI5Z1GT_2025-06-09_2.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-80.jpg"
         },
         {
           "file": "hod-80-2.jpg",
-          "path": "/products/images/hod-80-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-80-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/t3DoZt3T_YTIOGUDEYK_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-80-2.jpg"
         },
         {
           "file": "hod-80-3.png",
-          "path": "/products/images/hod-80-3.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-80-3.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/t3DoZt3T_V5ISYZNK7C_2025-06-20_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-80-3.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/t3DoZt3T_JZWOI5Z1GT_2025-06-09_2.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/t3DoZt3T_YTIOGUDEYK_2025-06-12_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/t3DoZt3T_V5ISYZNK7C_2025-06-20_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/t3DoZt3T_JZWOI5Z1GT_2025-06-09_2.jpg"
+      ]
     },
     {
       "id": "HOD-57",
@@ -3010,28 +2216,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-57.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-57.png",
       "imageFile": "hod-57.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-57.png",
       "gallery": [
         {
           "file": "hod-57.png",
-          "path": "/products/images/hod-57.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-57.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/4ShaT5Wh_EZX9VQUWIL_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-57.png"
         },
         {
           "file": "hod-57-2.png",
-          "path": "/products/images/hod-57-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-57-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/4ShaT5Wh_RI0BMU4838_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-57-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/4ShaT5Wh_EZX9VQUWIL_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/4ShaT5Wh_RI0BMU4838_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/4ShaT5Wh_EZX9VQUWIL_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-60",
@@ -3050,35 +2246,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-60.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-60.png",
       "imageFile": "hod-60.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-60.png",
       "gallery": [
         {
           "file": "hod-60.png",
-          "path": "/products/images/hod-60.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-60.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2mdXImnC_7QKB2ST887_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-60.png"
         },
         {
           "file": "hod-60-2.jpg",
-          "path": "/products/images/hod-60-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-60-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2mdXImnC_EUE6RPE6EW_2025-06-10_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-60-2.jpg"
         },
         {
           "file": "hod-60-3.jpg",
-          "path": "/products/images/hod-60-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-60-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2mdXImnC_T0GYZ3L4IV_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-60-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2mdXImnC_7QKB2ST887_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2mdXImnC_EUE6RPE6EW_2025-06-10_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2mdXImnC_T0GYZ3L4IV_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/2mdXImnC_7QKB2ST887_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-71",
@@ -3097,28 +2280,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-71.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-71.png",
       "imageFile": "hod-71.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-71.png",
       "gallery": [
         {
           "file": "hod-71.png",
-          "path": "/products/images/hod-71.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-71.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IPzrkjx__RPOODFIFRI_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-71.png"
         },
         {
           "file": "hod-71-2.jpg",
-          "path": "/products/images/hod-71-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-71-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IPzrkjx__QIA4QU2DRG_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-71-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IPzrkjx__RPOODFIFRI_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IPzrkjx__QIA4QU2DRG_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/IPzrkjx__RPOODFIFRI_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-72",
@@ -3137,28 +2310,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-72.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-72.png",
       "imageFile": "hod-72.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-72.png",
       "gallery": [
         {
           "file": "hod-72.png",
-          "path": "/products/images/hod-72.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-72.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wFx_vQ3g_YL7XXWHKLY_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-72.png"
         },
         {
           "file": "hod-72-2.jpg",
-          "path": "/products/images/hod-72-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-72-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wFx_vQ3g_5I767M75VL_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-72-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wFx_vQ3g_YL7XXWHKLY_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wFx_vQ3g_5I767M75VL_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/wFx_vQ3g_YL7XXWHKLY_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-76",
@@ -3177,28 +2340,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-76.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-76.png",
       "imageFile": "hod-76.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-76.png",
       "gallery": [
         {
           "file": "hod-76.png",
-          "path": "/products/images/hod-76.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-76.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/pVblyBxh_KOXI6VKL2S_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-76.png"
         },
         {
           "file": "hod-76-2.png",
-          "path": "/products/images/hod-76-2.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-76-2.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/pVblyBxh_UN9Q82CJEY_2025-06-12_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-76-2.png"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/pVblyBxh_KOXI6VKL2S_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/pVblyBxh_UN9Q82CJEY_2025-06-12_1.png"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/pVblyBxh_KOXI6VKL2S_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-74",
@@ -3217,35 +2370,22 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 30,
-      "image": "/products/images/hod-74.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-74.png",
       "imageFile": "hod-74.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-74.png",
       "gallery": [
         {
           "file": "hod-74.png",
-          "path": "/products/images/hod-74.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-74.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P_pU97L8_A1PTC179RA_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-74.png"
         },
         {
           "file": "hod-74-2.jpg",
-          "path": "/products/images/hod-74-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-74-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P_pU97L8_7V1D0ERGNQ_2025-06-10_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-74-2.jpg"
         },
         {
           "file": "hod-74-3.jpg",
-          "path": "/products/images/hod-74-3.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-74-3.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P_pU97L8_Q404KZO6UN_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-74-3.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P_pU97L8_A1PTC179RA_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P_pU97L8_7V1D0ERGNQ_2025-06-10_1.jpg",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P_pU97L8_Q404KZO6UN_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/P_pU97L8_A1PTC179RA_2025-06-09_1.png"
+      ]
     },
     {
       "id": "HOD-73",
@@ -3264,28 +2404,18 @@
       "idealFor": "Home decor (living room, bedroom, or hallway) Table centerpiece for dining or coffee tables Balcony or window Gifting for housewarmings, birthdays, or anniversaries Adding a touch of elegance to office desks or reception areas",
       "feature": "Low Maintenance: No watering or sunlight",
       "quantity": 29,
-      "image": "/products/images/hod-73.png",
+      "image": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-73.png",
       "imageFile": "hod-73.png",
-      "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-73.png",
       "gallery": [
         {
           "file": "hod-73.png",
-          "path": "/products/images/hod-73.png",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-73.png",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/LEY5Vj4Z_CHUBQMBXY1_2025-06-09_1.png"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-73.png"
         },
         {
           "file": "hod-73-2.jpg",
-          "path": "/products/images/hod-73-2.jpg",
-          "githubImageUrl": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-73-2.jpg",
-          "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/LEY5Vj4Z_NO866SVC4Q_2025-06-12_1.jpg"
+          "url": "https://raw.githubusercontent.com/Siddharthuppal08/HouseOfDhaarna/main/public/products/images/hod-73-2.jpg"
         }
-      ],
-      "images": [
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/LEY5Vj4Z_CHUBQMBXY1_2025-06-09_1.png",
-        "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/LEY5Vj4Z_NO866SVC4Q_2025-06-12_1.jpg"
-      ],
-      "sourceImageUrl": "https://s3.ap-south-1.amazonaws.com/nushop-catalogue/68394b1972a04e21d2579ce0/cat_img/LEY5Vj4Z_CHUBQMBXY1_2025-06-09_1.png"
+      ]
     }
   ],
   "categories": [

@@ -51,6 +51,10 @@ function imageFilename(sku, imageUrl, index = 1) {
   return index === 1 ? `${base}${ext}` : `${base}-${index}${ext}`
 }
 
+function buildGithubImageUrl(file) {
+  return `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/public/products/images/${file}`
+}
+
 async function downloadImage(url, destination) {
   if (existsSync(destination)) return true
 
@@ -113,9 +117,7 @@ async function run() {
         downloaded += 1
         gallery.push({
           file: imageFile,
-          path: `/products/images/${imageFile}`,
-          githubImageUrl: `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/public/products/images/${imageFile}`,
-          sourceImageUrl: imageUrl,
+          url: buildGithubImageUrl(imageFile),
         })
         process.stdout.write(fileIndex === 1 ? ' ✓' : `+${fileIndex}`)
       } else {
@@ -147,12 +149,9 @@ async function run() {
       idealFor: row['attr_Ideal For']?.replace(/\s+/g, ' ').trim() || '',
       feature: row['attr_Feature']?.replace(/\s+/g, ' ').trim() || '',
       quantity: Number(row.Quantity) || 0,
-      image: primary?.path || '',
+      image: primary?.url || '',
       imageFile: primary?.file || '',
-      githubImageUrl: primary?.githubImageUrl || '',
       gallery,
-      images: sourceImages,
-      sourceImageUrl: sourceImages[0] || '',
     })
   }
 
