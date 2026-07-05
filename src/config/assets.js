@@ -7,8 +7,6 @@ export const GITHUB_BRANCH = import.meta.env.VITE_GITHUB_BRANCH || 'main'
 export const GITHUB_IMAGE_BASE_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/public/products/images/`
 export const LOGO_URL = '/logo.jpg'
 
-export const GITHUB_IMAGE_BASE_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/public/products/images/`
-
 export function buildGithubImageUrl(file) {
   if (!file) return ''
   return `${GITHUB_IMAGE_BASE_URL}${file}`
