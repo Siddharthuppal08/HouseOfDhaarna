@@ -13,7 +13,7 @@ function InstagramIcon({ className = 'h-5 w-5' }) {
 export default function Footer() {
   return (
     <footer id="contact" className="bg-charcoal text-cream">
-      <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8 lg:py-20">
+      <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
         <div className="grid gap-12 sm:grid-cols-2 lg:grid-cols-12 lg:gap-8">
           <div className="sm:col-span-2 lg:col-span-4">
             <Logo variant="light" />

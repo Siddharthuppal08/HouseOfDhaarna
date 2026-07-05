@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import AnnouncementBar from './components/AnnouncementBar'
 import Header from './components/Header'
 import Hero from './components/Hero'
@@ -24,11 +25,13 @@ const categorySections = [
 ]
 
 export default function App() {
+  const [menuOpen, setMenuOpen] = useState(false)
+
   return (
     <div className="min-h-screen">
       <AnnouncementBar />
-      <Header />
-      <main>
+      <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
+      <main className="pb-[calc(5rem+env(safe-area-inset-bottom))] lg:pb-0">
         <Hero />
         <TrustBadges />
         <div id="shop">
@@ -73,7 +76,7 @@ export default function App() {
         <Newsletter />
       </main>
       <Footer />
-      <WhatsAppButton />
+      <WhatsAppButton hidden={menuOpen} />
     </div>
   )
 }

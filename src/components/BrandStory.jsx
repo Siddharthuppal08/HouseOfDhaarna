@@ -11,7 +11,7 @@ export default function BrandStory() {
           <div className="absolute inset-0 bg-sage-800/30" />
         </div>
 
-        <div className="flex flex-col justify-center px-6 py-16 lg:px-16 lg:py-24">
+        <div className="flex flex-col justify-center px-4 py-16 sm:px-6 lg:px-16 lg:py-24">
           <p className="text-xs font-semibold uppercase tracking-[0.3em] text-sage-200">
             About Us
           </p>
@@ -32,17 +32,17 @@ export default function BrandStory() {
             effortless elegance that lasts.
           </p>
 
-          <div className="mt-10 grid grid-cols-3 gap-6 border-t border-sage-500/30 pt-10">
+          <div className="mt-10 grid grid-cols-3 gap-4 border-t border-sage-500/30 pt-10 sm:gap-6">
             {[
               { value: '50%', label: 'Off Every Order' },
               { value: '100+', label: 'Products' },
               { value: '24/7', label: 'Support' },
             ].map((stat) => (
               <div key={stat.label}>
-                <p className="font-display text-3xl font-semibold text-white lg:text-4xl">
+                <p className="font-display text-2xl font-semibold text-white sm:text-3xl lg:text-4xl">
                   {stat.value}
                 </p>
-                <p className="mt-1 text-xs text-sage-200">{stat.label}</p>
+                <p className="mt-1 text-[10px] text-sage-200 sm:text-xs">{stat.label}</p>
               </div>
             ))}
           </div>
