@@ -19,7 +19,6 @@ export function buildProductOrderMessage(product, selectedImage) {
     'Hi House of Dhaarna!',
     '',
     `I'd like to order: *${product.name}*`,
-    product.subtitle ? `Details: ${product.subtitle}` : null,
     `Price: ${price}`,
     product.discount > 0 ? `Discount: ${product.discount}% off` : null,
     product.category ? `Category: ${product.category}` : null,
@@ -27,9 +26,7 @@ export function buildProductOrderMessage(product, selectedImage) {
     imageUrl ? `Image: ${imageUrl}` : null,
     '',
     'Please confirm availability and delivery.',
-  ]
-    .filter(Boolean)
-    .join('\n')
+  ].join('\n')
 }
 
 export function getProductWhatsAppUrl(product, selectedImage) {

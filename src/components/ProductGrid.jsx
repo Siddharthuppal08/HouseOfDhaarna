@@ -32,9 +32,9 @@ function ProductCard({ product }) {
 
   return (
     <article className="flex h-full flex-col">
-      <div className="relative overflow-hidden rounded-2xl border border-sage-100 bg-sage-50 shadow-sm">
+      <div className="relative overflow-hidden rounded-lg border border-sage-100 bg-sage-50 shadow-sm sm:rounded-xl lg:rounded-2xl">
         {product.badge && (
-          <span className="absolute left-3 top-3 z-10 rounded-full bg-warm-white px-3 py-1 text-[10px] font-semibold uppercase tracking-wider text-sage-700 shadow-sm">
+          <span className="absolute left-1 top-1 z-10 rounded-full bg-warm-white px-1.5 py-0.5 text-[8px] font-semibold uppercase tracking-wider text-sage-700 shadow-sm sm:left-2 sm:top-2 sm:px-2 sm:text-[9px] lg:left-3 lg:top-3 lg:px-3 lg:py-1 lg:text-[10px]">
             {product.badge}
           </span>
         )}
@@ -84,19 +84,18 @@ function ProductCard({ product }) {
         )}
       </div>
 
-      <div className="mt-4 flex flex-1 flex-col">
-        <p className="text-[10px] font-semibold uppercase tracking-[0.22em] text-stone">
-          {product.category}
-        </p>
-        <h3 className="mt-2 font-display text-lg font-medium leading-snug text-charcoal lg:text-xl">
+      <div className="mt-1.5 flex flex-1 flex-col sm:mt-2.5 lg:mt-4">
+        <h3 className="line-clamp-2 font-display text-[11px] font-medium leading-snug text-charcoal sm:text-sm lg:text-lg xl:text-xl">
           {product.name}
         </h3>
         {product.subtitle && (
-          <p className="mt-1.5 line-clamp-2 text-sm leading-relaxed text-stone">{product.subtitle}</p>
+          <p className="mt-0.5 hidden line-clamp-1 text-xs leading-relaxed text-stone sm:line-clamp-2 sm:text-sm lg:block">
+            {product.subtitle}
+          </p>
         )}
-        <div className="mt-auto pt-4">
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="text-lg font-semibold text-charcoal">
+        <div className="mt-auto pt-1.5 sm:pt-2.5 lg:pt-4">
+          <div className="flex flex-wrap items-center gap-1 sm:gap-1.5 lg:gap-2">
+            <span className="text-[11px] font-semibold text-charcoal sm:text-sm lg:text-lg">
               {formatPrice(product.price)}
             </span>
             {product.discount > 0 && (
@@ -139,7 +138,7 @@ export default function ProductGrid({ id, title, subtitle, products, viewAllHref
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col items-start justify-between gap-6 border-b border-sage-100 pb-8 sm:flex-row sm:items-end">
           <div className="max-w-2xl">
-            <p className="text-xs font-semibold uppercase tracking-[0.3em] text-sage-500">
+            <p className="text-[10px] font-semibold uppercase tracking-[0.28em] text-sage-500 sm:text-xs sm:tracking-[0.3em]">
               {subtitle}
             </p>
             <h2 className="mt-3 font-display text-3xl font-medium text-charcoal sm:text-4xl lg:text-5xl">

@@ -90,15 +90,6 @@ export default function Header({ menuOpen, setMenuOpen }) {
               <Icon name="whatsapp" className="h-4 w-4" />
               Order on WhatsApp
             </a>
-            <a
-              href={WHATSAPP_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Order on WhatsApp"
-              className="inline-flex rounded-full bg-[#25D366] p-2.5 text-white transition-colors hover:bg-[#1fb855] sm:hidden"
-            >
-              <Icon name="whatsapp" className="h-5 w-5" />
-            </a>
             <button
               type="button"
               aria-label={menuOpen ? 'Close menu' : 'Open menu'}

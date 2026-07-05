@@ -5,18 +5,18 @@ export default function CategoryShowcase() {
     <section id="collections" className="bg-cream py-20 lg:py-28">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <p className="text-xs font-semibold uppercase tracking-[0.3em] text-sage-500">
+          <p className="text-[10px] font-semibold uppercase tracking-[0.28em] text-sage-500 sm:text-xs sm:tracking-[0.3em]">
             Shop by Category
           </p>
-          <h2 className="mt-3 font-display text-4xl font-medium text-charcoal lg:text-5xl">
+          <h2 className="mt-2 font-display text-3xl font-medium text-charcoal sm:mt-3 sm:text-4xl lg:text-5xl">
             Curated Collections
           </h2>
-          <p className="mt-4 text-stone">
+          <p className="mt-3 text-sm text-stone sm:mt-4">
             Explore our full range of plants, flowers, vases, and combos
           </p>
         </div>
 
-        <div className="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="mt-8 grid grid-cols-2 gap-3 sm:mt-14 sm:gap-6 lg:grid-cols-4">
           {categories.map((category) => (
             <a
               key={category.id}
@@ -31,8 +31,8 @@ export default function CategoryShowcase() {
                 />
               </div>
               <div className="absolute inset-0 bg-gradient-to-t from-charcoal/70 via-charcoal/20 to-transparent" />
-              <div className="absolute inset-x-0 bottom-0 p-6 lg:p-8">
-                <h3 className="font-display text-xl font-medium text-white lg:text-2xl">
+              <div className="absolute inset-x-0 bottom-0 p-4 sm:p-6 lg:p-8">
+                <h3 className="font-display text-base font-medium text-white sm:text-xl lg:text-2xl">
                   {category.name}
                 </h3>
                 <p className="mt-2 text-sm text-white/80">{category.description}</p>
