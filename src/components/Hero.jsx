@@ -1,4 +1,4 @@
-import { newArrivals } from '../data/products'
+import { getProduct } from '../data/products'
 import { INSTAGRAM_URL, INSTAGRAM_HANDLE, LOGO_URL } from '../config/site'
 
 const highlights = [
@@ -7,21 +7,35 @@ const highlights = [
   'Zero maintenance',
 ]
 
-const heroImage = newArrivals[0]?.image || '/products/images/hod-124.jpg'
+const hydrangea = getProduct('HOD-65')
+const carnation = getProduct('HOD-96')
+const heroCombo = getProduct('HOD-124')
+const heroImage = heroCombo?.image || '/products/images/hod-124.jpg'
+
+const featuredFlowers = [
+  {
+    product: hydrangea,
+    label: 'Hydrangea',
+    href: '#shop-flowers',
+  },
+  {
+    product: carnation,
+    label: 'Carnation',
+    href: '#shop-flowers',
+  },
+].filter((item) => item.product)
 
 export default function Hero() {
-  const featured = newArrivals.slice(0, 3)
-
   return (
     <section className="relative min-h-[88vh] overflow-hidden">
       <div className="absolute inset-0">
         <img
           src={heroImage}
-          alt="Elegant home decor with artificial plants and vases"
-          className="h-full w-full scale-105 object-cover"
+          alt="Combo of white vase with lavender stick and green leaf sticks"
+          className="h-full w-full scale-105 object-cover object-center"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-charcoal/85 via-charcoal/60 to-charcoal/30" />
-        <div className="absolute inset-0 bg-gradient-to-t from-charcoal/65 via-transparent to-charcoal/25" />
+        <div className="absolute inset-0 bg-gradient-to-r from-charcoal/75 via-charcoal/45 to-charcoal/20" />
+        <div className="absolute inset-0 bg-gradient-to-t from-charcoal/50 via-transparent to-charcoal/15" />
       </div>
 
       <div className="relative mx-auto grid min-h-[88vh] max-w-7xl items-center gap-12 px-6 py-20 lg:grid-cols-2 lg:gap-16 lg:px-8 lg:py-28">
@@ -42,7 +56,7 @@ export default function Hero() {
             <span className="italic text-sage-200">effortlessly elegant</span>
           </h1>
           <p className="animate-fade-up-delay-2 mt-6 text-base leading-relaxed text-cream/85 lg:text-lg">
-            Premium artificial plants, flowers & vases crafted to elevate your
+            Premium artificial hydrangeas, carnations & vases crafted to elevate your
             home, office, or workspace — fresh year-round, zero maintenance.
           </p>
 
@@ -79,28 +93,29 @@ export default function Hero() {
           </div>
         </div>
 
-        {featured.length > 0 && (
-          <div className="hidden gap-4 lg:grid lg:grid-cols-3 lg:gap-4">
-            {featured.map((product, index) => (
+        {featuredFlowers.length > 0 && (
+          <div className="grid gap-5 sm:grid-cols-2 lg:gap-6">
+            {featuredFlowers.map(({ product, label, href }) => (
               <a
                 key={product.id}
-                href="#shop"
-                className={`group overflow-hidden rounded-2xl border border-cream/20 bg-cream/10 shadow-xl backdrop-blur-md transition-all hover:-translate-y-1 hover:bg-cream/15 ${
-                  index === 1 ? 'lg:-mt-8' : index === 2 ? 'lg:mt-4' : ''
-                }`}
+                href={href}
+                className="group overflow-hidden rounded-2xl border border-cream/25 bg-cream/10 shadow-xl backdrop-blur-md transition-all hover:-translate-y-1 hover:bg-cream/15"
               >
-                <div className="aspect-[4/5] overflow-hidden">
+                <div className="aspect-[4/5] overflow-hidden bg-cream/5">
                   <img
                     src={product.image}
                     alt={product.name}
                     className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                   />
                 </div>
-                <div className="px-4 py-3">
-                  <p className="line-clamp-2 font-display text-sm font-medium leading-snug text-white">
+                <div className="px-5 py-4">
+                  <p className="text-[10px] font-semibold uppercase tracking-[0.28em] text-sage-200">
+                    {label}
+                  </p>
+                  <p className="mt-2 line-clamp-2 font-display text-base font-medium leading-snug text-white">
                     {product.name}
                   </p>
-                  <p className="mt-1 text-xs text-cream/70">
+                  <p className="mt-2 text-sm text-cream/75">
                     From ₹{product.price.toLocaleString('en-IN')}
                   </p>
                 </div>
