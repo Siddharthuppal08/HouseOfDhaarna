@@ -1,5 +1,5 @@
 import { newArrivals } from '../data/products'
-import { INSTAGRAM_URL, INSTAGRAM_HANDLE } from '../config/site'
+import { INSTAGRAM_URL, INSTAGRAM_HANDLE, LOGO_URL } from '../config/site'
 
 const highlights = [
   '50% off every order',
@@ -20,21 +20,28 @@ export default function Hero() {
           alt="Elegant home decor with artificial plants and vases"
           className="h-full w-full scale-105 object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-charcoal/80 via-charcoal/55 to-charcoal/25" />
-        <div className="absolute inset-0 bg-gradient-to-t from-charcoal/60 via-transparent to-charcoal/20" />
+        <div className="absolute inset-0 bg-gradient-to-r from-charcoal/85 via-charcoal/60 to-charcoal/30" />
+        <div className="absolute inset-0 bg-gradient-to-t from-charcoal/65 via-transparent to-charcoal/25" />
       </div>
 
-      <div className="relative mx-auto flex min-h-[88vh] max-w-7xl flex-col justify-center px-6 py-20 lg:px-8 lg:py-28">
-        <div className="max-w-2xl">
-          <p className="animate-fade-up mb-5 text-xs font-semibold uppercase tracking-[0.35em] text-sage-200">
-            Inspired by Nature
-          </p>
-          <h1 className="animate-fade-up-delay-1 font-display text-5xl font-medium leading-[1.08] text-white sm:text-6xl lg:text-7xl">
+      <div className="relative mx-auto grid min-h-[88vh] max-w-7xl items-center gap-12 px-6 py-20 lg:grid-cols-2 lg:gap-16 lg:px-8 lg:py-28">
+        <div className="max-w-xl">
+          <div className="animate-fade-up mb-6 flex items-center gap-3">
+            <img
+              src={LOGO_URL}
+              alt=""
+              className="h-12 w-12 rounded-full object-cover ring-2 ring-cream/30"
+            />
+            <p className="text-xs font-semibold uppercase tracking-[0.35em] text-sage-200">
+              Inspired by Nature
+            </p>
+          </div>
+          <h1 className="animate-fade-up-delay-1 font-display text-5xl font-medium leading-[1.08] text-white sm:text-6xl lg:text-[3.5rem]">
             Lifelike decor,
             <br />
             <span className="italic text-sage-200">effortlessly elegant</span>
           </h1>
-          <p className="animate-fade-up-delay-2 mt-6 max-w-xl text-base leading-relaxed text-cream/85 lg:text-lg">
+          <p className="animate-fade-up-delay-2 mt-6 text-base leading-relaxed text-cream/85 lg:text-lg">
             Premium artificial plants, flowers & vases crafted to elevate your
             home, office, or workspace — fresh year-round, zero maintenance.
           </p>
@@ -73,13 +80,13 @@ export default function Hero() {
         </div>
 
         {featured.length > 0 && (
-          <div className="mt-14 hidden gap-4 lg:grid lg:grid-cols-3 lg:gap-6">
+          <div className="hidden gap-4 lg:grid lg:grid-cols-3 lg:gap-4">
             {featured.map((product, index) => (
               <a
                 key={product.id}
                 href="#shop"
                 className={`group overflow-hidden rounded-2xl border border-cream/20 bg-cream/10 shadow-xl backdrop-blur-md transition-all hover:-translate-y-1 hover:bg-cream/15 ${
-                  index === 1 ? '-mt-6' : ''
+                  index === 1 ? 'lg:-mt-8' : index === 2 ? 'lg:mt-4' : ''
                 }`}
               >
                 <div className="aspect-[4/5] overflow-hidden">
@@ -90,7 +97,7 @@ export default function Hero() {
                   />
                 </div>
                 <div className="px-4 py-3">
-                  <p className="line-clamp-1 font-display text-sm font-medium text-white">
+                  <p className="line-clamp-2 font-display text-sm font-medium leading-snug text-white">
                     {product.name}
                   </p>
                   <p className="mt-1 text-xs text-cream/70">
