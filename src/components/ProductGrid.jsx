@@ -23,7 +23,7 @@ function ProductCard({ product }) {
   const [activeImage, setActiveImage] = useState(0)
   const [lightboxOpen, setLightboxOpen] = useState(false)
   const selectedImage = gallery[activeImage]
-  const whatsappUrl = getProductWhatsAppUrl(product, selectedImage)
+  const whatsappUrl = getProductWhatsAppUrl(product)
 
   const handleOrder = (event) => {
     event.preventDefault()
