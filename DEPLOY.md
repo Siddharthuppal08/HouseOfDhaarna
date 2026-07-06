@@ -26,11 +26,16 @@ Add these **A records**:
 ## GitHub repo settings
 
 1. Open https://github.com/Siddharthuppal08/HouseOfDhaarna/settings/pages
-2. Source: **GitHub Actions**
-3. Custom domain: **houseofdhaarna.com**
-4. Enable **Enforce HTTPS**
+2. Source: Deploy from branch → **`gh-pages`** → **`/ (root)`**
+3. **Do not** deploy from the `main` branch — that serves unbuilt source (`/src/main.jsx`) and the site will look blank.
+4. Custom domain: **houseofdhaarna.com**
+5. Enable **Enforce HTTPS**
 
 The `public/CNAME` file in this repo tells GitHub Pages which domain to use.
+
+### Blank page?
+
+If the site loads but shows nothing, check the page source in your browser. If you see `<script src="/src/main.jsx">`, Pages is serving the repo root instead of the built `dist/` folder. Switch the Pages source as in step 2 above, then re-run the **Deploy website** workflow from the Actions tab.
 
 ## Manual deploy trigger
 
