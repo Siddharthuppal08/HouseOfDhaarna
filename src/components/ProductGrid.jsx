@@ -149,7 +149,7 @@ export default function ProductGrid({ id, title, subtitle, products, viewAllHref
           )}
         </div>
 
-        <div className="mt-8 grid grid-cols-4 gap-x-2 gap-y-6 sm:mt-10 sm:gap-x-4 sm:gap-y-8 lg:gap-x-6 lg:gap-y-12">
+        <div className="mt-8 grid grid-cols-2 gap-x-2 gap-y-6 sm:mt-10 sm:gap-x-4 sm:gap-y-8 lg:gap-x-6 lg:gap-y-12">
           {products.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
