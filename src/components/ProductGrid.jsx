@@ -32,9 +32,9 @@ function ProductCard({ product }) {
 
   return (
     <article className="flex h-full flex-col">
-      <div className="relative overflow-hidden rounded-lg border border-sage-100 bg-sage-50 shadow-sm sm:rounded-xl lg:rounded-2xl">
+      <div className="relative overflow-hidden rounded-lg border border-sage-100 bg-cream shadow-sm sm:rounded-xl lg:rounded-2xl">
         {product.badge && (
-          <span className="absolute left-1 top-1 z-10 rounded-full bg-warm-white px-1.5 py-0.5 text-[8px] font-semibold uppercase tracking-wider text-sage-700 shadow-sm sm:left-2 sm:top-2 sm:px-2 sm:text-[9px] lg:left-3 lg:top-3 lg:px-3 lg:py-1 lg:text-[10px]">
+          <span className="absolute left-1.5 top-1.5 z-10 rounded-full bg-warm-white px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-sage-700 shadow-sm sm:left-2 sm:top-2 sm:px-2.5 sm:text-xs lg:left-3 lg:top-3 lg:px-3 lg:py-1">
             {product.badge}
           </span>
         )}
@@ -42,59 +42,57 @@ function ProductCard({ product }) {
         <button
           type="button"
           onClick={() => setLightboxOpen(true)}
-          className="block w-full cursor-zoom-in overflow-hidden"
+          className="block w-full cursor-zoom-in"
           aria-label={`View larger images of ${product.name}`}
         >
-          <div className="aspect-square overflow-hidden bg-cream">
-            <img
-              src={gallery[activeImage]}
-              alt={product.name}
-              className="h-full w-full object-cover transition-transform duration-500 hover:scale-[1.03]"
-              loading="lazy"
-            />
-          </div>
+          <img
+            src={gallery[activeImage]}
+            alt={product.name}
+            className="block w-full h-auto object-contain"
+            loading="lazy"
+          />
         </button>
-
-        {gallery.length > 1 && (
-          <div className="flex gap-1 overflow-x-auto border-t border-sage-100 bg-warm-white p-1 sm:gap-2 sm:p-2.5 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-            {gallery.map((thumb, index) => (
-              <button
-                key={`${thumb}-${index}`}
-                type="button"
-                onClick={() => setActiveImage(index)}
-                className={`h-7 w-7 shrink-0 overflow-hidden rounded ring-2 transition-all sm:h-12 sm:w-12 sm:rounded-lg ${
-                  index === activeImage ? 'ring-sage-500' : 'ring-transparent opacity-75 hover:opacity-100'
-                }`}
-                aria-label={`Show image ${index + 1}`}
-                aria-pressed={index === activeImage}
-              >
-                <img src={thumb} alt="" className="h-full w-full object-cover" loading="lazy" />
-              </button>
-            ))}
-          </div>
-        )}
       </div>
 
-      <div className="mt-1.5 flex flex-1 flex-col sm:mt-2.5 lg:mt-4">
-        <h3 className="line-clamp-2 font-display text-[10px] font-medium leading-snug text-charcoal sm:text-sm lg:text-lg xl:text-xl">
+      {gallery.length > 1 && (
+        <div className="mt-2 flex gap-1.5 overflow-x-auto rounded-lg border border-sage-100 bg-warm-white p-1.5 sm:mt-2.5 sm:gap-2 sm:p-2.5 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+          {gallery.map((thumb, index) => (
+            <button
+              key={`${thumb}-${index}`}
+              type="button"
+              onClick={() => setActiveImage(index)}
+              className={`h-9 w-9 shrink-0 overflow-hidden rounded-md ring-2 transition-all sm:h-12 sm:w-12 sm:rounded-lg ${
+                index === activeImage ? 'ring-sage-500' : 'ring-transparent opacity-75 hover:opacity-100'
+              }`}
+              aria-label={`Show image ${index + 1}`}
+              aria-pressed={index === activeImage}
+            >
+              <img src={thumb} alt="" className="h-full w-full object-contain bg-cream" loading="lazy" />
+            </button>
+          ))}
+        </div>
+      )}
+
+      <div className="mt-2 flex flex-1 flex-col sm:mt-2.5 lg:mt-4">
+        <h3 className="line-clamp-2 font-display text-sm font-medium leading-snug text-charcoal sm:text-base lg:text-lg xl:text-xl">
           {product.name}
         </h3>
         {product.subtitle && (
-          <p className="mt-0.5 hidden line-clamp-1 text-xs leading-relaxed text-stone sm:line-clamp-2 sm:text-sm lg:block">
+          <p className="mt-1 line-clamp-2 text-xs leading-relaxed text-stone sm:text-sm lg:block">
             {product.subtitle}
           </p>
         )}
-        <div className="mt-auto pt-1.5 sm:pt-2.5 lg:pt-4">
-          <div className="flex flex-wrap items-center gap-1 sm:gap-1.5 lg:gap-2">
-            <span className="text-[10px] font-semibold text-charcoal sm:text-sm lg:text-lg">
+        <div className="mt-auto pt-2 sm:pt-2.5 lg:pt-4">
+          <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
+            <span className="text-sm font-semibold text-charcoal sm:text-base lg:text-lg">
               {formatPrice(product.price)}
             </span>
             {product.discount > 0 && (
               <>
-                <span className="hidden text-[10px] text-stone line-through sm:inline sm:text-sm">
+                <span className="text-xs text-stone line-through sm:text-sm">
                   {formatPrice(product.originalPrice)}
                 </span>
-                <span className="rounded-full bg-terracotta/10 px-1.5 py-0.5 text-[8px] font-semibold text-terracotta sm:px-2.5 sm:py-0.5 sm:text-[11px]">
+                <span className="rounded-full bg-terracotta/10 px-2 py-0.5 text-[10px] font-semibold text-terracotta sm:px-2.5 sm:text-xs">
                   {product.discount}% off
                 </span>
               </>
@@ -103,9 +101,9 @@ function ProductCard({ product }) {
           <a
             href={whatsappUrl}
             onClick={handleOrder}
-            className="mt-1.5 inline-flex w-full items-center justify-center gap-1 rounded-full bg-[#25D366] py-1.5 text-[9px] font-semibold text-white transition-colors hover:bg-[#1fb855] active:scale-[0.98] sm:mt-4 sm:gap-2 sm:py-3 sm:text-sm"
+            className="mt-2 inline-flex w-full items-center justify-center gap-1.5 rounded-full bg-[#25D366] py-2 text-xs font-semibold text-white transition-colors hover:bg-[#1fb855] active:scale-[0.98] sm:mt-4 sm:gap-2 sm:py-3 sm:text-sm"
           >
-            <WhatsAppIcon className="h-3 w-3 sm:h-4 sm:w-4" />
+            <WhatsAppIcon className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
             <span className="hidden sm:inline">Order on </span>WhatsApp
           </a>
         </div>
